@@ -1,4 +1,4 @@
-# Awesome Resource-Efficient-LLM Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Resource-Efficient LLM Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     WORK IN PROGRESS
