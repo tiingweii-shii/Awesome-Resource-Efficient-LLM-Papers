@@ -1,8 +1,13 @@
 # Awesome Resource-Efficient-LLM Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-WORK IN PROGRESS
- a curated list of high-quality papers on resource efficient LLMs 
-
- ![](media/clean_energy.gif)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    WORK IN PROGRESS
+    A curated list of high-quality papers on resource efficient LLMs
+  </div>
+  <div>
+    <img src="media/clean_energy.gif" alt="Clean Energy GIF" width="80" />
+  </div>
+</div>
 
  ## Table of Content
   - [LLM Architecture Design](#llm-architecture-design)
