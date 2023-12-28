@@ -9,7 +9,7 @@
   </div>
 </div>
 
- ## Table of Content
+ ## Table of Contents
   - [LLM Architecture Design](#llm-architecture-design)
     - [Efficient Transformer Architecture](#efficient-transformer-architecture)
     - [Non-transformer Architecture](#non-transformer-architecture)
