@@ -100,9 +100,9 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ## Reference
 If you find this code useful in your research, please consider citing:
 
-@article{bai2024beyond,
-  title={Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models},
-  author={Bai, Guangji and Chai, Zheng and Ling, Chen and Wang, Shiyu and Lu, Jiaying and Zhang, Nan and Shi, Tingwei and Yu, Ziyang and Zhu, Mengdan and Zhang, Yifei and others},
-  journal={arXiv preprint arXiv:2401.00625},
-  year={2024}
-}
+    @article{bai2024beyond,
+      title={Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models},
+      author={Bai, Guangji and Chai, Zheng and Ling, Chen and Wang, Shiyu and Lu, Jiaying and Zhang, Nan and Shi, Tingwei and Yu, Ziyang and Zhu, Mengdan and Zhang, Yifei and others},
+      journal={arXiv preprint arXiv:2401.00625},
+      year={2024}
+    }
