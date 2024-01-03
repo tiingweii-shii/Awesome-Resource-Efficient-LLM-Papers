@@ -2,7 +2,8 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     WORK IN PROGRESS
-    A curated list of high-quality papers on resource efficient LLMs
+    A curated list of high-quality papers on resource-efficient LLMs. This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/pdf/2401.00625).
+
   </div>
   <div>
     <img src="media/clean_energy.gif" alt="Clean Energy GIF" width="80" />
