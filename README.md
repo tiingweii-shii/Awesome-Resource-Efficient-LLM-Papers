@@ -98,7 +98,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 
 <!-------------------------------------------------------------------------------------->
  ## Reference
-If you find this code useful in your research, please consider citing:
+If you find this paper list useful in your research, please consider citing:
 
     @article{bai2024beyond,
       title={Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models},
