@@ -93,7 +93,55 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
   - [Example](https://example.com/) - Description of an example paper.
 
 <!-------------------------------------------------------------------------------------->
- ## LLM Resource Efficiency Leaderboards
+ ## Resource-Efficiency Evaluation Metrics \& Benchmarks
+ ### 🧮 Computation Metrics
+
+|  Metric                           |       Description                                                |    Example Usage                                                                                | 
+| :-------------------------------: | :--------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| FLOPs (Floating-point operations) | the number of arithmetic operations on floating-point numbers    | [\[FLOPs\]](https://arxiv.org/pdf/2309.13192.pdf) |
+| Training Time                     | the total duration required for training, typically measured in wall-clock minutes, hours, or days  |[\[minutes, days\]](https://arxiv.org/pdf/2309.13192.pdf)<br>[\[hours\]](https://www.jmlr.org/papers/volume24/23-0069/23-0069.pdf)|
+| Inference Time/Latency            | the average time required generate an output after receiving an input, typically measured in wall-clock time or CPU/GPU/TPU clock time in milliseconds or seconds  |[\[end-to-end latency in seconds\]](https://arxiv.org/pdf/2309.06180.pdf)<br>[\[next token generation latency in milliseconds\]](https://arxiv.org/pdf/2311.00502.pdf)|
+| Throughput                        | the rate of output tokens generation or tasks completion, typically measured in tokens per second (TPS) or queries per second (QPS) |[\[tokens/s\]](https://arxiv.org/pdf/2209.01188.pdf)<br>[\[queries/s\]](https://arxiv.org/pdf/2210.16773.pdf)|
+| Speed-Up Ratio                    | the improvement in inference speed compared to a baseline model |[\[inference time speed-up\]](https://aclanthology.org/2021.naacl-industry.15.pdf)<br>[\[throughput speed-up\]](https://github.com/NVIDIA/FasterTransformer)|
+
+### 💾 Memory Metrics
+
+|  Metric              |       Description                                              |    Example Usage                                                                                | 
+| :------------------: | :---------------------------------------------------------:    | :---------------------------------------------------------------------------------------------: |
+| Number of Parameters | the number of adjustable variables in the LLM’s neural network | [\[number of parameters\]](https://arxiv.org/pdf/1706.03762.pdf)|
+| Model Size           | the storage space required for storing the entire model        | [\[peak memory usage in GB\]](https://arxiv.org/pdf/2302.02451.pdf)|
+
+### ⚡️ Energy Metrics
+
+|  Metric              |       Description                                              |    Example Usage                                                                                | 
+| :------------------: | :---------------------------------------------------------:    | :---------------------------------------------------------------------------------------------: |
+| Energy Consumption   | the electrical power used during the LLM’s lifecycle           | [\[kWh\]](https://arxiv.org/pdf/1906.02243.pdf)|
+| Carbon Emission      | the greenhouse gas emissions associated with the model’s energy usage |[\[kgCO2eq\]](https://jmlr.org/papers/volume21/20-312/20-312.pdf)|
+
+<!-- software packages designed for real-time tracking of energy consumption and carbon emissions**. -->
+  > The following are available software packages designed for real-time tracking of energy consumption and carbon emission.
+  > - [CodeCarbon](https://codecarbon.io/)
+  > - [Carbontracker](https://github.com/lfwa/carbontracker)
+  > - [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker)
+
+<!-- tools for predicting the energy usage and carbon footprint before training**. -->
+  > You might also find the following helpful for predicting the energy usage and carbon footprint before actual training
+  > - [ML CO2 Impact](https://mlco2.github.io/impact/)
+  > - [LLMCarbon](https://github.com/SotaroKaneda/MLCarbon)
+
+### 💵 Financial Cost Metric
+|  Metric               |       Description                                              |    Example Usage                                                                                | 
+| :------------------:  | :---------------------------------------------------------:    | :---------------------------------------------------------------------------------------------: |
+| Dollars per parameter | the total cost of training (or running) the LLM by the number of parameters | |
+
+### 📨 Network Communication Metric
+|  Metric               |       Description                                              |    Example Usage                                                                                | 
+| :------------------:  | :---------------------------------------------------------:    | :---------------------------------------------------------------------------------------------: |
+| Communication Volume  | the total amount of data transmitted across the network during a specific LLM execution or training run | [\[communication volume in TB\]](https://arxiv.org/pdf/2310.06003.pdf)|
+
+### 💡 Other Metrics
+
+
    - [Example](https://example.com/) - Description of an example paper.
 
 <!-------------------------------------------------------------------------------------->
