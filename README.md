@@ -46,6 +46,15 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 
  ### Non-transformer Architecture
   - [Example](https://example.com/) - Description of an example paper.
+    
+|  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2017 | Mixture of Experts | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) | ICLR | 
+| 2022 | Mixture of Experts | [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://jmlr.org/papers/v23/21-0998.html) | JMLR |
+| 2022 | Mixture of Experts | [GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://proceedings.mlr.press/v162/du22c.html) | ICML|
+| 2022 | Mixture of Experts | [Mixture-of-Experts with Expert Choice Routing](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2f00ecd787b432c1d36f3de9800728eb-Abstract-Conference.html) | NeurIPS |
+| 2022 | Mixture of Experts | [Efficient Large Scale Language Modeling with Mixtures of Experts](https://aclanthology.org/2022.emnlp-main.804/) | EMNLP|
+| 2023 | RNN LM | [RWKV: Reinventing RNNs for the Transformer Era](https://aclanthology.org/2023.findings-emnlp.936/) | EMNLP-Findings|
 
 <!-------------------------------------------------------------------------------------->
  ## LLM Pre-Training
