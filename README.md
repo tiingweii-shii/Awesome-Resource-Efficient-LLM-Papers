@@ -90,7 +90,18 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 | 2023 | Contextual Pruning | [Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time](https://proceedings.mlr.press/v202/liu23am.html) | ICML | 
 
  ### Dynamic Acceleration
- - [Example](https://example.com/) - Description of an example paper.
+ 
+ #### Input Pruning
+|  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2021 | Score-based Token Removal | [Efficient sparse attention architecture with cascade token and head pruning](https://arxiv.org/pdf/2012.09852) | HPCA | 
+| 2022 | Score-based Token Removal | [Learned Token Pruning for Transformers](https://dl.acm.org/doi/abs/10.1145/3534678.3539260) | KDD | 
+| 2023 | Score-based Token Removal | [Constraint-aware and Ranking-distilled Token Pruning for Efficient Transformer Inference](https://arxiv.org/abs/2306.14393) | KDD | 
+| 2021 | Learning-based Token Removal | [TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference](https://arxiv.org/abs/2105.11618) | NAACL | 
+| 2022 | Learning-based Token Removal | [Transkimmer: Transformer Learns to Layer-wise Skim](https://arxiv.org/abs/2205.07324) | ACL | 
+| 2023 | Learning-based Token Removal | [PuMer: Pruning and Merging Tokens for Efficient Vision Language Models](https://arxiv.org/abs/2305.17530) | ACL | 
+| 2023 | Learning-based Token Removal | [Infor-Coef: Information Bottleneck-based Dynamic Token Downsampling for Compact and Efficient language model](https://arxiv.org/abs/2305.12458) | arXiv | 
+| 2023 | Learning-based Token Removal | [SmartTrim: Adaptive Tokens and Parameters Pruning for Efficient Vision-Language Models](https://arxiv.org/abs/2305.15033) | arXiv | 
 
 <!-------------------------------------------------------------------------------------->
  ## System Design
