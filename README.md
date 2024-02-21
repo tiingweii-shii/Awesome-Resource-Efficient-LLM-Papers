@@ -45,8 +45,6 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 
 
  ### Non-transformer Architecture
-  - [Example](https://example.com/) - Description of an example paper.
-    
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
 | 2017 | Mixture of Experts | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) | ICLR | 
@@ -82,7 +80,11 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Pruning
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2017 | Mixture of Experts | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) | ICLR | 
+| 2023 | Unstructured Pruning | [SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot](https://arxiv.org/pdf/2301.00774) | ICML | 
+| 2023 | Unstructured Pruning | [A Simple and Effective Pruning Approach for Large Language Models](https://arxiv.org/abs/2306.11695) | ICLR | 
+| 2023 | Unstructured Pruning | [AccelTran: A Sparsity-Aware Accelerator for Dynamic Inference With Transformers](https://ieeexplore.ieee.org/abstract/document/10120981) | TCAD | 
+| 2023 | Structured Pruning | [LLM-Pruner: On the Structural Pruning of Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/44956951349095f74492a5471128a7e0-Paper-Conference) | NeurIPS | 
+| 2023 | Structured Pruning | [LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation](https://arxiv.org/abs/2306.11222) | ICML | 
 
  ### Dynamic Acceleration
  - [Example](https://example.com/) - Description of an example paper.
