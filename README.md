@@ -85,6 +85,9 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 | 2023 | Unstructured Pruning | [AccelTran: A Sparsity-Aware Accelerator for Dynamic Inference With Transformers](https://ieeexplore.ieee.org/abstract/document/10120981) | TCAD | 
 | 2023 | Structured Pruning | [LLM-Pruner: On the Structural Pruning of Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/44956951349095f74492a5471128a7e0-Paper-Conference) | NeurIPS | 
 | 2023 | Structured Pruning | [LoSparse: Structured Compression of Large Language Models based on Low-Rank and Sparse Approximation](https://arxiv.org/abs/2306.11222) | ICML | 
+| 2023 | Structured Pruning | [Structured Pruning for Efficient Generative Pre-trained Language Models](https://aclanthology.org/2023.findings-acl.692) | ACL | 
+| 2023 | Structured Pruning | [ZipLM: Inference-Aware Structured Pruning of Language Models](https://arxiv.org/abs/2302.04089) | NeurIPS | 
+| 2023 | Contextual Pruning | [Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time]([https://arxiv.org/abs/2302.04089](https://proceedings.mlr.press/v202/liu23am/liu23am)) | ICML | 
 
  ### Dynamic Acceleration
  - [Example](https://example.com/) - Description of an example paper.
