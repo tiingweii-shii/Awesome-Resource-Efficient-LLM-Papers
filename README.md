@@ -78,7 +78,11 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ## LLM Inference
 
  ### Model Compression
- - [Example](https://example.com/) - Description of an example paper.
+
+ #### Pruning
+|  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2017 | Mixture of Experts | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) | ICLR | 
 
  ### Dynamic Acceleration
  - [Example](https://example.com/) - Description of an example paper.
