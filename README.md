@@ -64,10 +64,14 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 
 <!-------------------------------------------------------------------------------------->
  ## LLM Fine-Tuning
- - [Example](https://example.com/) - Description of an example paper.
-
  ### Parameter-Efficient Fine-Tuning
- - [Example](https://example.com/) - Description of an example paper.
+ |  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2019 | Masking-based fine-tuning | [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) | ACL | 
+| 2021 | Masking-based fine-tuning | [BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models](https://arxiv.org/abs/2106.10199) | ACL |
+| 2021 | Masking-based fine-tuning | [Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning](https://arxiv.org/abs/2109.05687) | EMNLP |
+| 2021 | Masking-based fine-tuning | [Unlearning Bias in Language Models by Partitioning Gradients](https://aclanthology.org/2023.findings-acl.375.pdf) | ACL |
+| 2022 | Masking-based fine-tuning | [Fine-Tuning Pre-Trained Language Models Effectively by Optimizing Subnetworks Adaptively](https://openreview.net/pdf?id=-r6-WNKfyhW) | NeurIPS |
 
  ### Full-Parameter Fine-Tuning
  - [Example](https://example.com/) - Description of an example paper.
