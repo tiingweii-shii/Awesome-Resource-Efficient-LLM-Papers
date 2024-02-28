@@ -93,6 +93,27 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 | 2023 | Structured Pruning | [ZipLM: Inference-Aware Structured Pruning of Language Models](https://arxiv.org/abs/2302.04089) | NeurIPS | 
 | 2023 | Contextual Pruning | [Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time](https://proceedings.mlr.press/v202/liu23am.html) | ICML | 
 
+ #### Quantization
+|  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2023 | Weight Quantization | [Flexround: Learnable rounding based on element-wise division for post-training quantization](https://arxiv.org/abs/2306.00317) | ICML | 
+| 2023 | Weight Quantization | [Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling](https://arxiv.org/abs/2304.09145) | EMNLP | 
+| 2023 | Weight Quantization | [OWQ: Outlier-Aware Weight Quantization for Efficient Fine-Tuning and Inference of Large Language Models](https://arxiv.org/abs/2306.02272) | AAAI | 
+| 2023 | Weight Quantization | [Gptq: Accurate posttraining quantization for generative pre-trained transformers](https://arxiv.org/abs/2210.17323) | ICLR |
+| 2023 | Weight Quantization | [Dynamic Stashing Quantization for Efficient Transformer Training](https://arxiv.org/abs/2303.05295) | EMNLP |
+| 2023 | Weight Quantization | [Quantization-aware and tensor-compressed training of transformers for natural language understanding](https://arxiv.org/abs/2306.01076) | Interspeech |
+| 2023 | Weight Quantization | [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) | NeurIPS |
+| 2023 | Weight Quantization | [Stable and low-precision training for large-scale vision-language models](https://arxiv.org/abs/2304.13013) | NeurIPS |
+| 2023 | Weight Quantization | [Prequant: A task-agnostic quantization approach for pre-trained language models](https://arxiv.org/abs/2306.00014) | ACL |
+| 2023 | Weight Quantization | [Olive: Accelerating large language models via hardware-friendly outliervictim pair quantization](https://arxiv.org/abs/2304.07493) | ISCA |
+| 2023 | Weight Quantization | [Awq: Activationaware weight quantization for llm compression and acceleration](https://arxiv.org/abs/2306.00978) | arXiv | 
+| 2023 | Weight Quantization | [Spqr: A sparsequantized representation for near-lossless llm weight compression](https://arxiv.org/abs/2306.03078) | arXiv | 
+| 2023 | Weight Quantization | [SqueezeLLM: Dense-and-Sparse Quantization](https://arxiv.org/abs/2306.07629) | arXiv | 
+| 2023 | Weight Quantization | [LLM-QAT: Data-Free Quantization Aware Training for Large Language Models](https://arxiv.org/abs/2305.17888) | arXiv |
+| 2022 | Activation Quantization | [Gact: Activation compressed training for generic network architectures](https://arxiv.org/abs/2206.11357) | ICML |
+| 2021 | Activation Quantization | [Ac-gc: Lossy activation compression with guaranteed convergence](https://proceedings.neurips.cc/paper/2021/hash/e655c7716a4b3ea67f48c6322fc42ed6-Abstract.html) | NeurIPS |
+| 2022 | Fixed-point Quantization | [Boost Vision Transformer with GPU-Friendly Sparsity and Quantization](https://arxiv.org/abs/2305.10727) | ACL |
+
  ### Dynamic Acceleration
  
  #### Input Pruning
