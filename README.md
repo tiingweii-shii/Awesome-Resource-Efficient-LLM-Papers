@@ -53,6 +53,10 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 | 2022 | Mixture of Experts | [Mixture-of-Experts with Expert Choice Routing](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2f00ecd787b432c1d36f3de9800728eb-Abstract-Conference.html) | NeurIPS |
 | 2022 | Mixture of Experts | [Efficient Large Scale Language Modeling with Mixtures of Experts](https://aclanthology.org/2022.emnlp-main.804/) | EMNLP|
 | 2023 | RNN LM | [RWKV: Reinventing RNNs for the Transformer Era](https://aclanthology.org/2023.findings-emnlp.936/) | EMNLP-Findings|
+| 2023 | MLP | [Auto-Regressive Next-Token Predictors are Universal Learners](https://arxiv.org/abs/2309.06979) | ArXiv |
+| 2023 | Convolutional LM| [Hyena Hierarchy: Towards Larger Convolutional Language models](https://arxiv.org/abs/2302.10866) | ICML|
+| 2023 | Sub-quadratic Matrices based| [Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture](https://nips.cc/virtual/2023/poster/71105) | NeurIPS |
+| 2023 | Selective State Space Model | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) | ArXiv |
 
 <!-------------------------------------------------------------------------------------->
  ## LLM Pre-Training
