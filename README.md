@@ -61,7 +61,19 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 <!-------------------------------------------------------------------------------------->
  ## LLM Pre-Training
  ### Memory Efficiency
- - [Example](https://example.com/) - Description of an example paper.
+ #### Distributed Training
+ |  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2020 | Data Parallelism | [Zero: Memory optimizations toward training trillion parameter models](https://arxiv.org/abs/1910.02054) | IEEE SC20 | 
+| 2021 | Data Parallelism | [FairScale:  A general purpose modular PyTorch library for high performance and large scale training](https://github.com/facebookresearch/fairscale) | JMLR | 
+| 2023 | Data Parallelism | [Palm: Scaling language modeling with pathways](https://arxiv.org/abs/2204.02311) | Github | 
+| 2018 | Model Parallelism | [Mesh-tensorflow: Deep learning for supercomputers](https://arxiv.org/abs/1811.02084) | NeurIPS |
+| 2019 | Model Parallelism | [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/abs/1811.06965) | NeurIPS |
+| 2019 | Model Parallelism | [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053) | Arxiv |
+| 2019 | Model Parallelism | [PipeDream: generalized pipeline parallelism for DNN training](https://arxiv.org/abs/1806.03377) | SOSP |
+| 2022 | Model Parallelism | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023) | OSDI |
+| 2023 | Model Parallelism | [Bpipe: memory-balanced pipeline parallelism for training large language models](https://proceedings.mlr.press/v202/kim23l/kim23l.pdf) | JMLR |
+
 
  ### Data Efficiency
  - [Example](https://example.com/) - Description of an example paper.
