@@ -171,7 +171,6 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 | 2022 | Libraries | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023) | OSDI | 
 | 2023 | Libraries | [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training](https://arxiv.org/abs/2110.14883) | ICPP | 
 | 2023 | Libraries | [GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/abs/2204.06745) | ACL | 
-
 | 2020 | Edge devices | [Lite Transformer with Long-Short Range Attention](https://arxiv.org/abs/2004.11886) | arXiv |
 | 2021 | Edge devices | [Generate More Features with Cheap Operations for BERT](https://aclanthology.org/2021.acl-long.509.pdf) | ACL |
 | 2021 | Edge devices | [SqueezeBERT: What can computer vision teach NLP about efficient neural networks?](https://arxiv.org/abs/2006.11316) | SustaiNLP |
