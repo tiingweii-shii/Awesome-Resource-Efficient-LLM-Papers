@@ -154,20 +154,39 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 <!-------------------------------------------------------------------------------------->
  ## System Design
 
- ### Hardware Offloading
-  - [Example](https://example.com/) - Description of an example paper.
+ ### Deployment optimization
+|  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2022 | Hardware offloading | [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032) | IEEE SC22 | 
+| 2023 | Hardware offloading | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) | PMLR | 
+| 2023 | Hardware offloading | [Fast distributed inference serving for large language models](https://arxiv.org/abs/2305.05920) | arXiv | 
+| 2022 | Collaborative inference | [Petals: Collaborative Inference and Fine-tuning of Large Models](https://arxiv.org/abs/2209.01188) | arXiv | 
 
- ### Collaborative Inference
-  - [Example](https://example.com/) - Description of an example paper.
+ ### Support Infrastructure
+|  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2018 | Libraries | [Mesh-TensorFlow: Deep Learning for Supercomputers](https://arxiv.org/abs/1811.02084) | NeurIPS | 
+| 2019 | Libraries | [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053) | IEEE SC22 | 
+| 2022 | Libraries | [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032) | IEEE SC22 | 
+| 2022 | Libraries | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023) | OSDI | 
+| 2023 | Libraries | [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training](https://arxiv.org/abs/2110.14883) | ICPP | 
+| 2023 | Libraries | [GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/abs/2204.06745) | ACL | 
 
- ### Libraries
-  - [Example](https://example.com/) - Description of an example paper.
-
- ### Edge Devices
-  - [Example](https://example.com/) - Description of an example paper.
+| 2020 | Edge devices | [Lite Transformer with Long-Short Range Attention](https://arxiv.org/abs/2004.11886) | arXiv |
+| 2021 | Edge devices | [Generate More Features with Cheap Operations for BERT](https://aclanthology.org/2021.acl-long.509.pdf) | ACL |
+| 2021 | Edge devices | [SqueezeBERT: What can computer vision teach NLP about efficient neural networks?](https://arxiv.org/abs/2006.11316) | SustaiNLP |
+| 2022 | Edge devices | [EdgeFormer: A Parameter-Efficient Transformer for On-Device Seq2seq Generation](https://arxiv.org/abs/2202.07959) | arXiv |
+| 2022 | Edge devices | [ProFormer: Towards On-Device LSH Projection-Based Transformers](https://arxiv.org/abs/2004.05801) | ACL |
+| 2023 | Edge devices | [Training Large-Vocabulary Neural Language Models by Private Federated Learning for Resource-Constrained Devices](https://arxiv.org/abs/2207.08988) | ICASSP |
+| 2023 | Edge devices | [Federated Fine-Tuning of LLMs on the Very Edge: The Good, the Bad, the Ugly](https://arxiv.org/abs/2310.03150) | arXiv |
+| 2023 | Edge devices | [Large Language Models Empowered Autonomous Edge AI for Connected Intelligence](https://arxiv.org/abs/2307.02779) | arXiv |
 
  ### Other Systems
-  - [Example](https://example.com/) - Description of an example paper.
+|  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2023 | Other Systems | [Tabi: An Efficient Multi-Level Inference System for Large Language Models](https://dl.acm.org/doi/abs/10.1145/3552326.3587438) | EuroSys | 
+| 2023 | Other Systems | [Near-Duplicate Sequence Search at Scale for Large Language Model Memorization Evaluation](https://dl.acm.org/doi/abs/10.1145/3589324) | PACMMOD | 
+
 
 <!-------------------------------------------------------------------------------------->
  ## Resource-Efficiency Evaluation Metrics \& Benchmarks
