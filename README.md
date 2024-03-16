@@ -74,6 +74,13 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 | 2022 | Model Parallelism | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023) | OSDI |
 | 2023 | Model Parallelism | [Bpipe: memory-balanced pipeline parallelism for training large language models](https://proceedings.mlr.press/v202/kim23l/kim23l.pdf) | JMLR |
 
+ #### Mixed precision training
+ |  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2017 | Mixed Precision Training| [Mixed Precision Training](https://arxiv.org/abs/1710.03740) | ICLR | 
+| 2018 | Mixed Precision Training| [Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805) | ACL | 
+| 2022 | Mixed Precision Training| [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) | Arxiv | 
+
 
  ### Data Efficiency
  - [Example](https://example.com/) - Description of an example paper.
