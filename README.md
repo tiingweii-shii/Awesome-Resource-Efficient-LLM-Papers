@@ -83,7 +83,34 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 
 
  ### Data Efficiency
- - [Example](https://example.com/) - Description of an example paper.
+ #### Importance Sampling
+ |  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2023 | Survey on importance sampling | [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107) | IJCAI | 
+| 2018 | Importance sampling | [Training Deep Models Faster with Robust, Approximate Importance Sampling](https://proceedings.neurips.cc/paper/2018/hash/967990de5b3eac7b87d49a13c6834978-Abstract.html) | NeurIPS | 
+| 2018 | Importance sampling | [Not All Samples Are Created Equal: Deep Learning with Importance Sampling](http://proceedings.mlr.press/v80/katharopoulos18a.html) | ICML | 
+| 2021 | Importance sampling | [Deep Learning on a Data Diet: Finding Important Examples Early in Training](https://arxiv.org/abs/2107.07075) | NeurIPS | 
+| 2022 | Importance sampling | [Beyond neural scaling laws: beating power law scaling via data pruning](https://arxiv.org/abs/2206.14486) | NeurIPS | 
+| 2023 | Importance sampling | [Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033) | Arxiv | 
+| 2023 | Importance sampling | [INGENIOUS: Using Informative Data Subsets for Efficient Pre-Training of Language Models](https://aclanthology.org/2023.findings-emnlp.445/) | EMNLP | 
+| 2023 | Importance sampling | [Machine Learning Force Fields with Data Cost Aware Training](https://arxiv.org/abs/2306.03109) | ICML | 
+
+ #### Data Augmentation
+ |  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2023 | Data augmentation | [MixGen: A New Multi-Modal Data Augmentation](https://openaccess.thecvf.com/content/WACV2023W/Pretrain/html/Hao_MixGen_A_New_Multi-Modal_Data_Augmentation_WACVW_2023_paper.html) | WACV | 
+| 2023 | Data augmentation | [Augmentation-Aware Self-Supervision for Data-Efficient GAN Training](https://arxiv.org/abs/2205.15677) | NeurIPS | 
+| 2023 | Data augmentation | [Improving End-to-End Speech Processing by Efficient Text Data Utilization with Latent Synthesis](https://aclanthology.org/2023.findings-emnlp.327/) | EMNLP | 
+| 2023 | Data augmentation | [FaMeSumm: Investigating and Improving Faithfulness of Medical Summarization](https://aclanthology.org/2023.emnlp-main.673/) | EMNLP | 
+
+ #### Training Objective
+ |  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2023 | Training objective | [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169) | Arxiv | 
+| 2023 | Training objective | [Efficient Data Learning for Open Information Extraction with Pre-trained Language Models](https://aclanthology.org/2023.findings-emnlp.869/) | EMNLP | 
+| 2019 | Masked language modeling | [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) | ICML | 
+| 2022 | Masked image modeling | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) | CVPR | 
+| 2023 | Masked language-image modeling | [Scaling Language-Image Pre-training via Masking](https://arxiv.org/abs/2212.00794) | CVPR | 
 
 <!-------------------------------------------------------------------------------------->
  ## LLM Fine-Tuning
