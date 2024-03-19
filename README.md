@@ -97,7 +97,14 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 | 2022 | Masking-based fine-tuning | [Fine-Tuning Pre-Trained Language Models Effectively by Optimizing Subnetworks Adaptively](https://openreview.net/pdf?id=-r6-WNKfyhW) | NeurIPS |
 
  ### Full-Parameter Fine-Tuning
- - [Example](https://example.com/) - Description of an example paper.
+ |  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2023 | Comparative study betweeen full-parameter and LoRA-base fine-tuning | [A Comparative Study between Full-Parameter and LoRA-based Fine-Tuning on Chinese Instruction Data for Instruction Following Large Language Model](https://arxiv.org/abs/2304.08109) | Arxiv | 
+| 2023 | Comparative study betweeen full-parameter and parameter-efficient fine-tuning | [Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification](https://arxiv.org/abs/2308.07282) | Arxiv |
+| 2023 | Full-parameter fine-tuning with limited resources | [Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs/2306.09782) | Arxiv |
+| 2023 | Memory-efficient fine-tuning | [Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/abs/2305.17333) | NeurIPS |
+| 2023 | Full-parameter fine-tuning for medicine applications | [PMC-LLaMA: Towards Building Open-source Language Models for Medicine](https://arxiv.org/abs/2304.14454) | Arxiv |
+| 2022 | Drawback of full-parameter fine-tuning | [Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution](https://openreview.net/forum?id=UYneFzXSJWh) | ICLR |
 
 <!-------------------------------------------------------------------------------------->
  ## LLM Inference
