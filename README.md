@@ -41,8 +41,20 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 
  ## LLM Architecture Design
  ### Efficient Transformer Architecture
- - [Example](https://example.com/) - Description of an example paper.
-
+|  Date  |       Keywords     | Paper    | Venue |
+| :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2019 | Approximate attention | [Reformer: The efficient transformer](https://openreview.net/forum?id=rkgNKkHtvB)  | ICLR |
+| 2020 | Approximate attention | [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)| ICML |
+| 2021 | Approximate attention | [Efficient attention: Attention with linear complexities](https://arxiv.org/abs/1812.01243) | WACV |
+| 2021 | Approximate attention | [An Attention Free Transformer](https://arxiv.org/pdf/2105.14103.pdf)| ArXiv |
+| 2021 | Approximate attention | [Self-attention Does Not Need O(n^2) Memory](https://arxiv.org/abs/2112.05682) | ArXiv |
+| 2023 | Approximate attention | [KDEformer: Accelerating Transformers via Kernel Density Estimation](https://arxiv.org/abs/2302.02451) | ICML|
+| 2023 | Approximate attention | [Mega: Moving Average Equipped Gated Attention ](https://openreview.net/forum?id=qNLe3iq2El) | ICLR|
+| 2021 | Hardware optimization | [LightSeq: A High Performance Inference Library for Transformers](https://aclanthology.org/2021.naacl-industry.15/)| NAACL|
+| 2021 | Hardware optimization | [FasterTransformer: A Faster Transformer Framework](https://github.com/NVIDIA/FasterTransformer)| GitHub|
+| 2022 | Hardware optimization | [xFormers - Toolbox to Accelerate Research on Transformers](https://github.com/facebookresearch/xformers) | GitHub|
+| 2023 | Hardware optimization | [Flashattention: Fast and memory-efficient exact attention with io-awareness](https://proceedings.neurips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) | NeurIPS |
+| 2024 | Hardware optimization | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) | ICLR|
 
  ### Non-transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
