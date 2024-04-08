@@ -1,7 +1,6 @@
 # Awesome Resource-Efficient LLM Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    WORK IN PROGRESS
     A curated list of high-quality papers on resource-efficient LLMs. 
   </div>
   <div>
@@ -17,25 +16,34 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
     - [Non-transformer Architecture](#non-transformer-architecture)
   - [LLM Pre-Training](#llm-pre-training)
     - [Memory Efficiency](#memory-efficiency)
+      - [Distributed Training](#distributed-training)
+      - [Mixed Precision Training](#mixed-precision-training)
     - [Data Efficiency](#data-efficiency)
+      - [Importance Sampling](#importance-sampling)
+      - [Data Augmentation](#data-augmentation)
+      - [Training Objective](#training-objective)
   - [LLM Fine-Tuning](#llm-fine-tuning)
     - [Parameter-Efficient Fine-Tuning](#parameter-efficient-fine-tuning)
     - [Full-Parameter Fine-Tuning](#full-parameter-fine-tuning)
   - [LLM Inference](#llm-inference)
     - [Model Compression](#model-compression)
+      - [Pruning](#pruning)
+      - [Quantization](#quantization)
     - [Dynamic Acceleration](#dynamic-acceleration)
+      - [Input Pruning](#input-pruning)
   - [System Design](#system-design)
-    - [Hardware Offloading](#hardware-offloading)
-    - [Collaborative Inference](#collaborative-inference)
-    - [Libraries](#libraries)
-    - [Edge Devices](#edge-devices)
+    - [Deployment Optimization](#deployment-optimization)
+    - [Support Infrastructure](#support-infrastructure)
     - [Other Systems](#other-systems)
-  - [LLM Resource Efficiency Leaderboards](#llm-resource-efficiency-leaderboards)
-
-
-|  Date  |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication |
-| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
-| 2017-06 |     Transformers     |      Google      | [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)                                                                                                                   |   NeurIPS<br>  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount&query=%24.citationCount&label=citation) |
+  - [Resource-Efficiency Evaluation Metrics & Benchmarks](#resource-efficiency-evaluation-metrics--benchmarks)
+    - [🧮 Computation Metrics](#🧮-computation-metrics)
+    - [💾 Memory Metrics](#💾-memory-metrics)
+    - [⚡️ Energy Metrics](#⚡️-energy-metrics)
+    - [💵 Financial Cost Metric](#💵-financial-cost-metric)
+    - [📨 Network Communication Metric](#📨-network-communication-metric)
+    - [💡 Other Metrics](#💡-other-metrics)
+    - [Benchmarks](#benchmarks)
+  - [Reference](#reference)
 
 <!-------------------------------------------------------------------------------------->
 
