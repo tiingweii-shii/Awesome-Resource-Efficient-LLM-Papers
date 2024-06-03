@@ -51,32 +51,32 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Efficient Transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2019 | Approximate attention | [Reformer: The efficient transformer](https://openreview.net/forum?id=rkgNKkHtvB)  | ICLR |
-| 2020 | Approximate attention | [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)| ICML |
+| 2024 | Hardware optimization | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) | ICLR |
+| 2023 | Hardware optimization | [Flashattention: Fast and memory-efficient exact attention with io-awareness](https://proceedings.neurips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) | NeurIPS |
+| 2023 | Approximate attention | [KDEformer: Accelerating Transformers via Kernel Density Estimation](https://arxiv.org/abs/2302.02451) | ICML|
+| 2023 | Approximate attention | [Mega: Moving Average Equipped Gated Attention ](https://openreview.net/forum?id=qNLe3iq2El) | ICLR|
+| 2022 | Hardware optimization | [xFormers - Toolbox to Accelerate Research on Transformers](https://github.com/facebookresearch/xformers) | GitHub|
 | 2021 | Approximate attention | [Efficient attention: Attention with linear complexities](https://arxiv.org/abs/1812.01243) | WACV |
 | 2021 | Approximate attention | [An Attention Free Transformer](https://arxiv.org/pdf/2105.14103.pdf)| ArXiv |
 | 2021 | Approximate attention | [Self-attention Does Not Need O(n^2) Memory](https://arxiv.org/abs/2112.05682) | ArXiv |
-| 2023 | Approximate attention | [KDEformer: Accelerating Transformers via Kernel Density Estimation](https://arxiv.org/abs/2302.02451) | ICML|
-| 2023 | Approximate attention | [Mega: Moving Average Equipped Gated Attention ](https://openreview.net/forum?id=qNLe3iq2El) | ICLR|
 | 2021 | Hardware optimization | [LightSeq: A High Performance Inference Library for Transformers](https://aclanthology.org/2021.naacl-industry.15/)| NAACL|
 | 2021 | Hardware optimization | [FasterTransformer: A Faster Transformer Framework](https://github.com/NVIDIA/FasterTransformer)| GitHub|
-| 2022 | Hardware optimization | [xFormers - Toolbox to Accelerate Research on Transformers](https://github.com/facebookresearch/xformers) | GitHub|
-| 2023 | Hardware optimization | [Flashattention: Fast and memory-efficient exact attention with io-awareness](https://proceedings.neurips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) | NeurIPS |
-| 2024 | Hardware optimization | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) | ICLR|
+| 2020 | Approximate attention | [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)| ICML |
+| 2019 | Approximate attention | [Reformer: The efficient transformer](https://openreview.net/forum?id=rkgNKkHtvB)  | ICLR |
 
  ### Non-transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2017 | Mixture of Experts | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) | ICLR | 
-| 2022 | Mixture of Experts | [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://jmlr.org/papers/v23/21-0998.html) | JMLR |
-| 2022 | Mixture of Experts | [GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://proceedings.mlr.press/v162/du22c.html) | ICML|
-| 2022 | Mixture of Experts | [Mixture-of-Experts with Expert Choice Routing](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2f00ecd787b432c1d36f3de9800728eb-Abstract-Conference.html) | NeurIPS |
-| 2022 | Mixture of Experts | [Efficient Large Scale Language Modeling with Mixtures of Experts](https://aclanthology.org/2022.emnlp-main.804/) | EMNLP|
 | 2023 | RNN LM | [RWKV: Reinventing RNNs for the Transformer Era](https://aclanthology.org/2023.findings-emnlp.936/) | EMNLP-Findings|
 | 2023 | MLP | [Auto-Regressive Next-Token Predictors are Universal Learners](https://arxiv.org/abs/2309.06979) | ArXiv |
 | 2023 | Convolutional LM| [Hyena Hierarchy: Towards Larger Convolutional Language models](https://arxiv.org/abs/2302.10866) | ICML|
 | 2023 | Sub-quadratic Matrices based| [Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture](https://nips.cc/virtual/2023/poster/71105) | NeurIPS |
 | 2023 | Selective State Space Model | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) | ArXiv |
+| 2022 | Mixture of Experts | [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://jmlr.org/papers/v23/21-0998.html) | JMLR |
+| 2022 | Mixture of Experts | [GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://proceedings.mlr.press/v162/du22c.html) | ICML|
+| 2022 | Mixture of Experts | [Mixture-of-Experts with Expert Choice Routing](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2f00ecd787b432c1d36f3de9800728eb-Abstract-Conference.html) | NeurIPS |
+| 2022 | Mixture of Experts | [Efficient Large Scale Language Modeling with Mixtures of Experts](https://aclanthology.org/2022.emnlp-main.804/) | EMNLP|
+| 2017 | Mixture of Experts | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://openreview.net/forum?id=B1ckMDqlg) | ICLR | 
 
 <!-------------------------------------------------------------------------------------->
  ## LLM Pre-Training
@@ -84,36 +84,35 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Distributed Training
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2020 | Data Parallelism | [Zero: Memory optimizations toward training trillion parameter models](https://arxiv.org/abs/1910.02054) | IEEE SC20 | 
-| 2021 | Data Parallelism | [FairScale:  A general purpose modular PyTorch library for high performance and large scale training](https://github.com/facebookresearch/fairscale) | JMLR | 
 | 2023 | Data Parallelism | [Palm: Scaling language modeling with pathways](https://arxiv.org/abs/2204.02311) | Github | 
-| 2018 | Model Parallelism | [Mesh-tensorflow: Deep learning for supercomputers](https://arxiv.org/abs/1811.02084) | NeurIPS |
+| 2023 | Model Parallelism | [Bpipe: memory-balanced pipeline parallelism for training large language models](https://proceedings.mlr.press/v202/kim23l/kim23l.pdf) | JMLR |
+| 2022 | Model Parallelism | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023) | OSDI |
+| 2021 | Data Parallelism | [FairScale:  A general purpose modular PyTorch library for high performance and large scale training](https://github.com/facebookresearch/fairscale) | JMLR|
+| 2020 | Data Parallelism | [Zero: Memory optimizations toward training trillion parameter models](https://arxiv.org/abs/1910.02054) | IEEE SC20 | 
 | 2019 | Model Parallelism | [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/abs/1811.06965) | NeurIPS |
 | 2019 | Model Parallelism | [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053) | Arxiv |
 | 2019 | Model Parallelism | [PipeDream: generalized pipeline parallelism for DNN training](https://arxiv.org/abs/1806.03377) | SOSP |
-| 2022 | Model Parallelism | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023) | OSDI |
-| 2023 | Model Parallelism | [Bpipe: memory-balanced pipeline parallelism for training large language models](https://proceedings.mlr.press/v202/kim23l/kim23l.pdf) | JMLR |
+| 2018 | Model Parallelism | [Mesh-tensorflow: Deep learning for supercomputers](https://arxiv.org/abs/1811.02084) | NeurIPS |
 
  #### Mixed precision training
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2017 | Mixed Precision Training| [Mixed Precision Training](https://arxiv.org/abs/1710.03740) | ICLR | 
+| 2022 | Mixed Precision Training| [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) | Arxiv |
 | 2018 | Mixed Precision Training| [Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805) | ACL | 
-| 2022 | Mixed Precision Training| [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) | Arxiv | 
-
+| 2017 | Mixed Precision Training| [Mixed Precision Training](https://arxiv.org/abs/1710.03740) | ICLR | 
 
  ### Data Efficiency
  #### Importance Sampling
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
 | 2023 | Survey on importance sampling | [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107) | IJCAI | 
-| 2018 | Importance sampling | [Training Deep Models Faster with Robust, Approximate Importance Sampling](https://proceedings.neurips.cc/paper/2018/hash/967990de5b3eac7b87d49a13c6834978-Abstract.html) | NeurIPS | 
-| 2018 | Importance sampling | [Not All Samples Are Created Equal: Deep Learning with Importance Sampling](http://proceedings.mlr.press/v80/katharopoulos18a.html) | ICML | 
-| 2021 | Importance sampling | [Deep Learning on a Data Diet: Finding Important Examples Early in Training](https://arxiv.org/abs/2107.07075) | NeurIPS | 
-| 2022 | Importance sampling | [Beyond neural scaling laws: beating power law scaling via data pruning](https://arxiv.org/abs/2206.14486) | NeurIPS | 
 | 2023 | Importance sampling | [Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033) | Arxiv | 
 | 2023 | Importance sampling | [INGENIOUS: Using Informative Data Subsets for Efficient Pre-Training of Language Models](https://aclanthology.org/2023.findings-emnlp.445/) | EMNLP | 
 | 2023 | Importance sampling | [Machine Learning Force Fields with Data Cost Aware Training](https://arxiv.org/abs/2306.03109) | ICML | 
+| 2022 | Importance sampling | [Beyond neural scaling laws: beating power law scaling via data pruning](https://arxiv.org/abs/2206.14486) | NeurIPS |
+| 2021 | Importance sampling | [Deep Learning on a Data Diet: Finding Important Examples Early in Training](https://arxiv.org/abs/2107.07075) | NeurIPS | 
+| 2018 | Importance sampling | [Training Deep Models Faster with Robust, Approximate Importance Sampling](https://proceedings.neurips.cc/paper/2018/hash/967990de5b3eac7b87d49a13c6834978-Abstract.html) | NeurIPS | 
+| 2018 | Importance sampling | [Not All Samples Are Created Equal: Deep Learning with Importance Sampling](http://proceedings.mlr.press/v80/katharopoulos18a.html) | ICML | 
 
  #### Data Augmentation
  |  Date  |       Keywords     | Paper    | Venue |
@@ -127,21 +126,21 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
 | 2023 | Training objective | [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169) | Arxiv | 
-| 2023 | Training objective | [Efficient Data Learning for Open Information Extraction with Pre-trained Language Models](https://aclanthology.org/2023.findings-emnlp.869/) | EMNLP | 
-| 2019 | Masked language modeling | [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) | ICML | 
+| 2023 | Training objective | [Efficient Data Learning for Open Information Extraction with Pre-trained Language Models](https://aclanthology.org/2023.findings-emnlp.869/) | EMNLP |
+| 2023 | Masked language-image modeling | [Scaling Language-Image Pre-training via Masking](https://arxiv.org/abs/2212.00794) | CVPR |
 | 2022 | Masked image modeling | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377) | CVPR | 
-| 2023 | Masked language-image modeling | [Scaling Language-Image Pre-training via Masking](https://arxiv.org/abs/2212.00794) | CVPR | 
+| 2019 | Masked language modeling | [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) | ICML | 
 
 <!-------------------------------------------------------------------------------------->
  ## LLM Fine-Tuning
  ### Parameter-Efficient Fine-Tuning
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2019 | Masking-based fine-tuning | [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) | ACL | 
+| 2022 | Masking-based fine-tuning | [Fine-Tuning Pre-Trained Language Models Effectively by Optimizing Subnetworks Adaptively](https://openreview.net/pdf?id=-r6-WNKfyhW) | NeurIPS |
 | 2021 | Masking-based fine-tuning | [BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models](https://arxiv.org/abs/2106.10199) | ACL |
 | 2021 | Masking-based fine-tuning | [Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning](https://arxiv.org/abs/2109.05687) | EMNLP |
 | 2021 | Masking-based fine-tuning | [Unlearning Bias in Language Models by Partitioning Gradients](https://aclanthology.org/2023.findings-acl.375.pdf) | ACL |
-| 2022 | Masking-based fine-tuning | [Fine-Tuning Pre-Trained Language Models Effectively by Optimizing Subnetworks Adaptively](https://openreview.net/pdf?id=-r6-WNKfyhW) | NeurIPS |
+| 2019 | Masking-based fine-tuning | [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization](https://arxiv.org/abs/1911.03437) | ACL |
 
  ### Full-Parameter Fine-Tuning
  |  Date  |       Keywords     | Paper    | Venue |
@@ -188,22 +187,22 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 | 2023 | Weight Quantization | [SqueezeLLM: Dense-and-Sparse Quantization](https://arxiv.org/abs/2306.07629) | arXiv | 
 | 2023 | Weight Quantization | [LLM-QAT: Data-Free Quantization Aware Training for Large Language Models](https://arxiv.org/abs/2305.17888) | arXiv |
 | 2022 | Activation Quantization | [Gact: Activation compressed training for generic network architectures](https://arxiv.org/abs/2206.11357) | ICML |
-| 2021 | Activation Quantization | [Ac-gc: Lossy activation compression with guaranteed convergence](https://proceedings.neurips.cc/paper/2021/hash/e655c7716a4b3ea67f48c6322fc42ed6-Abstract.html) | NeurIPS |
 | 2022 | Fixed-point Quantization | [Boost Vision Transformer with GPU-Friendly Sparsity and Quantization](https://arxiv.org/abs/2305.10727) | ACL |
+| 2021 | Activation Quantization | [Ac-gc: Lossy activation compression with guaranteed convergence](https://proceedings.neurips.cc/paper/2021/hash/e655c7716a4b3ea67f48c6322fc42ed6-Abstract.html) | NeurIPS |
 
  ### Dynamic Acceleration
  
  #### Input Pruning
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2021 | Score-based Token Removal | [Efficient sparse attention architecture with cascade token and head pruning](https://arxiv.org/pdf/2012.09852) | HPCA | 
-| 2022 | Score-based Token Removal | [Learned Token Pruning for Transformers](https://dl.acm.org/doi/abs/10.1145/3534678.3539260) | KDD | 
 | 2023 | Score-based Token Removal | [Constraint-aware and Ranking-distilled Token Pruning for Efficient Transformer Inference](https://arxiv.org/abs/2306.14393) | KDD | 
-| 2021 | Learning-based Token Removal | [TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference](https://arxiv.org/abs/2105.11618) | NAACL | 
-| 2022 | Learning-based Token Removal | [Transkimmer: Transformer Learns to Layer-wise Skim](https://arxiv.org/abs/2205.07324) | ACL | 
 | 2023 | Learning-based Token Removal | [PuMer: Pruning and Merging Tokens for Efficient Vision Language Models](https://arxiv.org/abs/2305.17530) | ACL | 
 | 2023 | Learning-based Token Removal | [Infor-Coef: Information Bottleneck-based Dynamic Token Downsampling for Compact and Efficient language model](https://arxiv.org/abs/2305.12458) | arXiv | 
-| 2023 | Learning-based Token Removal | [SmartTrim: Adaptive Tokens and Parameters Pruning for Efficient Vision-Language Models](https://arxiv.org/abs/2305.15033) | arXiv | 
+| 2023 | Learning-based Token Removal | [SmartTrim: Adaptive Tokens and Parameters Pruning for Efficient Vision-Language Models](https://arxiv.org/abs/2305.15033) | arXiv |
+| 2022 | Learning-based Token Removal | [Transkimmer: Transformer Learns to Layer-wise Skim](https://arxiv.org/abs/2205.07324) | ACL | 
+| 2022 | Score-based Token Removal | [Learned Token Pruning for Transformers](https://dl.acm.org/doi/abs/10.1145/3534678.3539260) | KDD | 
+| 2021 | Learning-based Token Removal | [TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference](https://arxiv.org/abs/2105.11618) | NAACL | 
+| 2021 | Score-based Token Removal | [Efficient sparse attention architecture with cascade token and head pruning](https://arxiv.org/pdf/2012.09852) | HPCA | 
 
 <!-------------------------------------------------------------------------------------->
  ## System Design
@@ -211,28 +210,28 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Deployment optimization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2022 | Hardware offloading | [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032) | IEEE SC22 | 
 | 2023 | Hardware offloading | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) | PMLR | 
 | 2023 | Hardware offloading | [Fast distributed inference serving for large language models](https://arxiv.org/abs/2305.05920) | arXiv | 
 | 2022 | Collaborative inference | [Petals: Collaborative Inference and Fine-tuning of Large Models](https://arxiv.org/abs/2209.01188) | arXiv | 
+| 2022 | Hardware offloading | [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032) | IEEE SC22 | 
 
  ### Support Infrastructure
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2018 | Libraries | [Mesh-TensorFlow: Deep Learning for Supercomputers](https://arxiv.org/abs/1811.02084) | NeurIPS | 
-| 2019 | Libraries | [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053) | IEEE SC22 | 
-| 2022 | Libraries | [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032) | IEEE SC22 | 
-| 2022 | Libraries | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023) | OSDI | 
-| 2023 | Libraries | [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training](https://arxiv.org/abs/2110.14883) | ICPP | 
-| 2023 | Libraries | [GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/abs/2204.06745) | ACL | 
-| 2020 | Edge devices | [Lite Transformer with Long-Short Range Attention](https://arxiv.org/abs/2004.11886) | arXiv |
-| 2021 | Edge devices | [Generate More Features with Cheap Operations for BERT](https://aclanthology.org/2021.acl-long.509.pdf) | ACL |
-| 2021 | Edge devices | [SqueezeBERT: What can computer vision teach NLP about efficient neural networks?](https://arxiv.org/abs/2006.11316) | SustaiNLP |
-| 2022 | Edge devices | [EdgeFormer: A Parameter-Efficient Transformer for On-Device Seq2seq Generation](https://arxiv.org/abs/2202.07959) | arXiv |
-| 2022 | Edge devices | [ProFormer: Towards On-Device LSH Projection-Based Transformers](https://arxiv.org/abs/2004.05801) | ACL |
 | 2023 | Edge devices | [Training Large-Vocabulary Neural Language Models by Private Federated Learning for Resource-Constrained Devices](https://arxiv.org/abs/2207.08988) | ICASSP |
 | 2023 | Edge devices | [Federated Fine-Tuning of LLMs on the Very Edge: The Good, the Bad, the Ugly](https://arxiv.org/abs/2310.03150) | arXiv |
+| 2023 | Libraries | [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training](https://arxiv.org/abs/2110.14883) | ICPP | 
+| 2023 | Libraries | [GPT-NeoX-20B: An Open-Source Autoregressive Language Model](https://arxiv.org/abs/2204.06745) | ACL | 
 | 2023 | Edge devices | [Large Language Models Empowered Autonomous Edge AI for Connected Intelligence](https://arxiv.org/abs/2307.02779) | arXiv |
+| 2022 | Libraries | [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/abs/2207.00032) | IEEE SC22 | 
+| 2022 | Libraries | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023) | OSDI | 
+| 2022 | Edge devices | [EdgeFormer: A Parameter-Efficient Transformer for On-Device Seq2seq Generation](https://arxiv.org/abs/2202.07959) | arXiv |
+| 2022 | Edge devices | [ProFormer: Towards On-Device LSH Projection-Based Transformers](https://arxiv.org/abs/2004.05801) | ACL |
+| 2021 | Edge devices | [Generate More Features with Cheap Operations for BERT](https://aclanthology.org/2021.acl-long.509.pdf) | ACL |
+| 2021 | Edge devices | [SqueezeBERT: What can computer vision teach NLP about efficient neural networks?](https://arxiv.org/abs/2006.11316) | SustaiNLP |
+| 2020 | Edge devices | [Lite Transformer with Long-Short Range Attention](https://arxiv.org/abs/2004.11886) | arXiv |
+| 2019 | Libraries | [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053) | IEEE SC22 | 
+| 2018 | Libraries | [Mesh-TensorFlow: Deep Learning for Supercomputers](https://arxiv.org/abs/1811.02084) | NeurIPS | 
 
  ### Other Systems
 |  Date  |       Keywords     | Paper    | Venue |
