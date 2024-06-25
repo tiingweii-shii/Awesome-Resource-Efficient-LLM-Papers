@@ -160,6 +160,14 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Pruning
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Structured Pruning | [Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models](https://arxiv.org/pdf/2405.20541) | Arxiv |
+| 2024 | Structured Pruning | [BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation](https://arxiv.org/pdf/2402.16880) | Arxiv |
+| 2024 | Structured Pruning | [ShortGPT: Layers in Large Language Models are More Redundant Than You Expect](https://arxiv.org/pdf/2403.03853) | Arxiv |
+| 2024 | Structured Pruning | [NutePrune: Efficient Progressive Pruning with Numerous Teachers for Large Language Models](https://arxiv.org/pdf/2402.09773) | Arxiv |
+| 2024 | Structured Pruning | [SliceGPT: Compress Large Language Models by Deleting Rows and Columns](https://arxiv.org/pdf/2401.15024) | ICLR |
+| 2024 | Unstructured Pruning | [Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs](https://arxiv.org/pdf/2310.08915) | ICLR |
+| 2024 | Structured Pruning | [Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models](https://openreview.net/pdf?id=Tr0lPx9woF) | ICLR |
+| 2023 | Unstructured Pruning | [One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models](https://arxiv.org/pdf/2310.09499) | Arxiv |
 | 2023 | Unstructured Pruning | [SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot](https://arxiv.org/pdf/2301.00774) | ICML | 
 | 2023 | Unstructured Pruning | [A Simple and Effective Pruning Approach for Large Language Models](https://arxiv.org/abs/2306.11695) | ICLR | 
 | 2023 | Unstructured Pruning | [AccelTran: A Sparsity-Aware Accelerator for Dynamic Inference With Transformers](https://ieeexplore.ieee.org/abstract/document/10120981) | TCAD | 
