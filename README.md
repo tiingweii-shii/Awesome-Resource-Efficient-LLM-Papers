@@ -11,13 +11,15 @@
 This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/pdf/2401.00625).
 
  ## Table of Contents
+- [Awesome Resource-Efficient LLM Papers ](#awesome-resource-efficient-llm-papers-)
+  - [Table of Contents](#table-of-contents)
   - [LLM Architecture Design](#llm-architecture-design)
     - [Efficient Transformer Architecture](#efficient-transformer-architecture)
     - [Non-transformer Architecture](#non-transformer-architecture)
   - [LLM Pre-Training](#llm-pre-training)
     - [Memory Efficiency](#memory-efficiency)
       - [Distributed Training](#distributed-training)
-      - [Mixed Precision Training](#mixed-precision-training)
+      - [Mixed precision training](#mixed-precision-training)
     - [Data Efficiency](#data-efficiency)
       - [Importance Sampling](#importance-sampling)
       - [Data Augmentation](#data-augmentation)
@@ -32,16 +34,16 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
     - [Dynamic Acceleration](#dynamic-acceleration)
       - [Input Pruning](#input-pruning)
   - [System Design](#system-design)
-    - [Deployment Optimization](#deployment-optimization)
+    - [Deployment optimization](#deployment-optimization)
     - [Support Infrastructure](#support-infrastructure)
     - [Other Systems](#other-systems)
-  - [Resource-Efficiency Evaluation Metrics & Benchmarks](#resource-efficiency-evaluation-metrics--benchmarks)
-    - [🧮 Computation Metrics](#🧮-computation-metrics)
-    - [💾 Memory Metrics](#💾-memory-metrics)
-    - [⚡️ Energy Metrics](#⚡️-energy-metrics)
-    - [💵 Financial Cost Metric](#💵-financial-cost-metric)
-    - [📨 Network Communication Metric](#📨-network-communication-metric)
-    - [💡 Other Metrics](#💡-other-metrics)
+  - [Resource-Efficiency Evaluation Metrics \& Benchmarks](#resource-efficiency-evaluation-metrics--benchmarks)
+    - [🧮 Computation Metrics](#-computation-metrics)
+    - [💾 Memory Metrics](#-memory-metrics)
+    - [⚡️ Energy Metrics](#️-energy-metrics)
+    - [💵 Financial Cost Metric](#-financial-cost-metric)
+    - [📨 Network Communication Metric](#-network-communication-metric)
+    - [💡 Other Metrics](#-other-metrics)
     - [Benchmarks](#benchmarks)
   - [Reference](#reference)
 
@@ -51,6 +53,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Efficient Transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | #TODO | [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486) | ArXiv |
+| 2024 | #TODO | [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/pdf/2401.16421) | ICML |
 | 2024 | Hardware optimization | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) | ICLR |
 | 2023 | Hardware optimization | [Flashattention: Fast and memory-efficient exact attention with io-awareness](https://proceedings.neurips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) | NeurIPS |
 | 2023 | Approximate attention | [KDEformer: Accelerating Transformers via Kernel Density Estimation](https://arxiv.org/abs/2302.02451) | ICML|
@@ -67,6 +71,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Non-transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | #TODO | [You Only Cache Once: Decoder-Decoder Architectures for Language Models](https://arxiv.org/abs/2405.05254)| ArXiv |
+| 2024 | #TODO | [Scalable MatMul-free Language Modeling](https://arxiv.org/abs/2406.02528) | ArXiv |
 | 2023 | RNN LM | [RWKV: Reinventing RNNs for the Transformer Era](https://aclanthology.org/2023.findings-emnlp.936/) | EMNLP-Findings|
 | 2023 | MLP | [Auto-Regressive Next-Token Predictors are Universal Learners](https://arxiv.org/abs/2309.06979) | ArXiv |
 | 2023 | Convolutional LM| [Hyena Hierarchy: Towards Larger Convolutional Language models](https://arxiv.org/abs/2302.10866) | ICML|
@@ -84,6 +90,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Distributed Training
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Model Parallelism #TODO | [MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs](https://arxiv.org/abs/2402.15627) | Arxiv |
 | 2023 | Data Parallelism | [Palm: Scaling language modeling with pathways](https://arxiv.org/abs/2204.02311) | Github | 
 | 2023 | Model Parallelism | [Bpipe: memory-balanced pipeline parallelism for training large language models](https://proceedings.mlr.press/v202/kim23l/kim23l.pdf) | JMLR |
 | 2022 | Model Parallelism | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023) | OSDI |
@@ -105,6 +112,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Importance Sampling
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | | [LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/abs/2403.17919) | Arxiv |
 | 2023 | Survey on importance sampling | [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107) | IJCAI | 
 | 2023 | Importance sampling | [Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033) | Arxiv | 
 | 2023 | Importance sampling | [INGENIOUS: Using Informative Data Subsets for Efficient Pre-Training of Language Models](https://aclanthology.org/2023.findings-emnlp.445/) | EMNLP | 
@@ -117,6 +125,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Data Augmentation
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | | [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://dl.acm.org/doi/abs/10.1145/3616855.3635853?casa_token=czFJxqFeCbgAAAAA:CNIaQutlmtxWln6HSh605kI28dupJMocGVsGY4SR6LKS5aRwg7G0fRdKhbzw3cnbXBVckMJ3xf2h) | WSDM |
+| 2024 |  | [LLM-DA: Data Augmentation via Large Language Models for Few-Shot Named Entity Recognition](https://arxiv.org/abs/2402.14568) | Arxiv |
 | 2023 | Data augmentation | [MixGen: A New Multi-Modal Data Augmentation](https://openaccess.thecvf.com/content/WACV2023W/Pretrain/html/Hao_MixGen_A_New_Multi-Modal_Data_Augmentation_WACVW_2023_paper.html) | WACV | 
 | 2023 | Data augmentation | [Augmentation-Aware Self-Supervision for Data-Efficient GAN Training](https://arxiv.org/abs/2205.15677) | NeurIPS | 
 | 2023 | Data augmentation | [Improving End-to-End Speech Processing by Efficient Text Data Utilization with Latent Synthesis](https://aclanthology.org/2023.findings-emnlp.327/) | EMNLP | 
