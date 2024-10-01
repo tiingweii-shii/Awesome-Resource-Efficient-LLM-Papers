@@ -53,8 +53,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Efficient Transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | #TODO | [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486) | ArXiv |
-| 2024 | #TODO | [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/pdf/2401.16421) | ICML |
+| 2024 | Approximate attention #ADD | [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486) | ArXiv |
+| 2024 | Approximate attention #ADD | [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/pdf/2401.16421) | ICML |
 | 2024 | Hardware optimization | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) | ICLR |
 | 2023 | Hardware optimization | [Flashattention: Fast and memory-efficient exact attention with io-awareness](https://proceedings.neurips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html) | NeurIPS |
 | 2023 | Approximate attention | [KDEformer: Accelerating Transformers via Kernel Density Estimation](https://arxiv.org/abs/2302.02451) | ICML|
@@ -71,8 +71,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Non-transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | #TODO | [You Only Cache Once: Decoder-Decoder Architectures for Language Models](https://arxiv.org/abs/2405.05254)| ArXiv |
-| 2024 | #TODO | [Scalable MatMul-free Language Modeling](https://arxiv.org/abs/2406.02528) | ArXiv |
+| 2024 | Decoder #ADD | [You Only Cache Once: Decoder-Decoder Architectures for Language Models](https://arxiv.org/abs/2405.05254)| ArXiv |
+| 2024 | BitLinear layer #ADD | [Scalable MatMul-free Language Modeling](https://arxiv.org/abs/2406.02528) | ArXiv |
 | 2023 | RNN LM | [RWKV: Reinventing RNNs for the Transformer Era](https://aclanthology.org/2023.findings-emnlp.936/) | EMNLP-Findings|
 | 2023 | MLP | [Auto-Regressive Next-Token Predictors are Universal Learners](https://arxiv.org/abs/2309.06979) | ArXiv |
 | 2023 | Convolutional LM| [Hyena Hierarchy: Towards Larger Convolutional Language models](https://arxiv.org/abs/2302.10866) | ICML|
@@ -90,7 +90,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Distributed Training
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | Model Parallelism #TODO | [MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs](https://arxiv.org/abs/2402.15627) | Arxiv |
+| 2024 | Model Parallelism #ADD | [MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs](https://arxiv.org/abs/2402.15627) | Arxiv |
 | 2023 | Data Parallelism | [Palm: Scaling language modeling with pathways](https://arxiv.org/abs/2204.02311) | Github | 
 | 2023 | Model Parallelism | [Bpipe: memory-balanced pipeline parallelism for training large language models](https://proceedings.mlr.press/v202/kim23l/kim23l.pdf) | JMLR |
 | 2022 | Model Parallelism | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023) | OSDI |
@@ -112,7 +112,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Importance Sampling
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | | [LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/abs/2403.17919) | Arxiv |
+| 2024 | Importance sampling #ADD | [LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/abs/2403.17919) | Arxiv |
 | 2023 | Survey on importance sampling | [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107) | IJCAI | 
 | 2023 | Importance sampling | [Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033) | Arxiv | 
 | 2023 | Importance sampling | [INGENIOUS: Using Informative Data Subsets for Efficient Pre-Training of Language Models](https://aclanthology.org/2023.findings-emnlp.445/) | EMNLP | 
@@ -125,8 +125,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Data Augmentation
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | | [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://dl.acm.org/doi/abs/10.1145/3616855.3635853?casa_token=czFJxqFeCbgAAAAA:CNIaQutlmtxWln6HSh605kI28dupJMocGVsGY4SR6LKS5aRwg7G0fRdKhbzw3cnbXBVckMJ3xf2h) | WSDM |
-| 2024 |  | [LLM-DA: Data Augmentation via Large Language Models for Few-Shot Named Entity Recognition](https://arxiv.org/abs/2402.14568) | Arxiv |
+| 2024 | Data Augmentation #ADD | [LLMRec: Large Language Models with Graph Augmentation for Recommendation](https://dl.acm.org/doi/abs/10.1145/3616855.3635853?casa_token=czFJxqFeCbgAAAAA:CNIaQutlmtxWln6HSh605kI28dupJMocGVsGY4SR6LKS5aRwg7G0fRdKhbzw3cnbXBVckMJ3xf2h) | WSDM |
+| 2024 | Data augmentation #ADD | [LLM-DA: Data Augmentation via Large Language Models for Few-Shot Named Entity Recognition](https://arxiv.org/abs/2402.14568) | Arxiv |
 | 2023 | Data augmentation | [MixGen: A New Multi-Modal Data Augmentation](https://openaccess.thecvf.com/content/WACV2023W/Pretrain/html/Hao_MixGen_A_New_Multi-Modal_Data_Augmentation_WACVW_2023_paper.html) | WACV | 
 | 2023 | Data augmentation | [Augmentation-Aware Self-Supervision for Data-Efficient GAN Training](https://arxiv.org/abs/2205.15677) | NeurIPS | 
 | 2023 | Data augmentation | [Improving End-to-End Speech Processing by Efficient Text Data Utilization with Latent Synthesis](https://aclanthology.org/2023.findings-emnlp.327/) | EMNLP | 
@@ -146,6 +146,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Parameter-Efficient Fine-Tuning
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | LoRA-based fine-tuning #ADD | [MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter](https://arxiv.org/html/2406.04984v1) | ACL |
+| 2023 | LoRA-based fine-tuning #ADD | [DyLoRA: Parameter-Efficient Tuning of Pretrained Models using Dynamic Search-Free Low Rank Adaptation](https://aclanthology.org/2023.eacl-main.239/) | EACL |
 | 2022 | Masking-based fine-tuning | [Fine-Tuning Pre-Trained Language Models Effectively by Optimizing Subnetworks Adaptively](https://openreview.net/pdf?id=-r6-WNKfyhW) | NeurIPS |
 | 2021 | Masking-based fine-tuning | [BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models](https://arxiv.org/abs/2106.10199) | ACL |
 | 2021 | Masking-based fine-tuning | [Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning](https://arxiv.org/abs/2109.05687) | EMNLP |
@@ -155,6 +157,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Full-Parameter Fine-Tuning
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Study of full-parameter fine-tuning optimizations #ADD | [A Study of Optimizations for Fine-tuning Large Language Models](https://arxiv.org/abs/2406.02290) | Arxiv | 
 | 2023 | Comparative study betweeen full-parameter and LoRA-base fine-tuning | [A Comparative Study between Full-Parameter and LoRA-based Fine-Tuning on Chinese Instruction Data for Instruction Following Large Language Model](https://arxiv.org/abs/2304.08109) | Arxiv | 
 | 2023 | Comparative study betweeen full-parameter and parameter-efficient fine-tuning | [Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification](https://arxiv.org/abs/2308.07282) | Arxiv |
 | 2023 | Full-parameter fine-tuning with limited resources | [Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs/2306.09782) | Arxiv |
@@ -190,6 +193,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Quantization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Weight-Activation Co-Quantization #TODO | [Rotation and Permutation for Advanced Outlier Management and Efficient Quantization of LLMs](https://arxiv.org/html/2406.01721v1) | NeurIPS |
+| 2024 | Weight Quantization #TODO | [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](https://arxiv.org/abs/2308.13137) | ICLR |
 | 2023 | Weight Quantization | [Flexround: Learnable rounding based on element-wise division for post-training quantization](https://arxiv.org/abs/2306.00317) | ICML | 
 | 2023 | Weight Quantization | [Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling](https://arxiv.org/abs/2304.09145) | EMNLP | 
 | 2023 | Weight Quantization | [OWQ: Outlier-Aware Weight Quantization for Efficient Fine-Tuning and Inference of Large Language Models](https://arxiv.org/abs/2306.02272) | AAAI | 
@@ -213,6 +218,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Input Pruning
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Learning-based Token Removal #ADD | [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/abs/2403.12968) | ACL |
+| 2024 | Learning-based Token Removal #ADD | [Compressed Context Memory For Online Language Model Interaction](https://arxiv.org/abs/2312.03414) | ICLR |
 | 2023 | Score-based Token Removal | [Constraint-aware and Ranking-distilled Token Pruning for Efficient Transformer Inference](https://arxiv.org/abs/2306.14393) | KDD | 
 | 2023 | Learning-based Token Removal | [PuMer: Pruning and Merging Tokens for Efficient Vision Language Models](https://arxiv.org/abs/2305.17530) | ACL | 
 | 2023 | Learning-based Token Removal | [Infor-Coef: Information Bottleneck-based Dynamic Token Downsampling for Compact and Efficient language model](https://arxiv.org/abs/2305.12458) | arXiv | 
@@ -228,6 +235,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Deployment optimization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Hardware Optimization #ADD | [LUT TENSOR CORE: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration](https://paperswithcode.com/paper/lut-tensor-core-lookup-table-enables) | Arxiv |
 | 2023 | Hardware offloading | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) | PMLR | 
 | 2023 | Hardware offloading | [Fast distributed inference serving for large language models](https://arxiv.org/abs/2305.05920) | arXiv | 
 | 2022 | Collaborative inference | [Petals: Collaborative Inference and Fine-tuning of Large Models](https://arxiv.org/abs/2209.01188) | arXiv | 
