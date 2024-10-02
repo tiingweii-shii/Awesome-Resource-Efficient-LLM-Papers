@@ -244,6 +244,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Support Infrastructure
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Edge devices #ADD | [When Large Language Model Agents Meet 6G Networks: Perception, Grounding, and Alignment](https://ieeexplore.ieee.org/abstract/document/10648594) | IEEE WC24 |
+| 2024 | Edge devices #ADD | [On-Device Language Models: A Comprehensive Review](https://arxiv.org/abs/2409.00088) | Arxiv |
 | 2023 | Edge devices | [Training Large-Vocabulary Neural Language Models by Private Federated Learning for Resource-Constrained Devices](https://arxiv.org/abs/2207.08988) | ICASSP |
 | 2023 | Edge devices | [Federated Fine-Tuning of LLMs on the Very Edge: The Good, the Bad, the Ugly](https://arxiv.org/abs/2310.03150) | arXiv |
 | 2023 | Libraries | [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training](https://arxiv.org/abs/2110.14883) | ICPP | 
