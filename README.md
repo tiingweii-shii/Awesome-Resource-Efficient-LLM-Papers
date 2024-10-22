@@ -193,8 +193,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Quantization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | Weight-Activation Co-Quantization #TODO | [Rotation and Permutation for Advanced Outlier Management and Efficient Quantization of LLMs](https://arxiv.org/html/2406.01721v1) | NeurIPS |
-| 2024 | Weight Quantization #TODO | [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](https://arxiv.org/abs/2308.13137) | ICLR |
+| 2024 | Weight-Activation Co-Quantization  | [Rotation and Permutation for Advanced Outlier Management and Efficient Quantization of LLMs](https://arxiv.org/html/2406.01721v1) | NeurIPS |
+| 2024 | Weight Quantization  | [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](https://arxiv.org/abs/2308.13137) | ICLR |
 | 2023 | Weight Quantization | [Flexround: Learnable rounding based on element-wise division for post-training quantization](https://arxiv.org/abs/2306.00317) | ICML | 
 | 2023 | Weight Quantization | [Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling](https://arxiv.org/abs/2304.09145) | EMNLP | 
 | 2023 | Weight Quantization | [OWQ: Outlier-Aware Weight Quantization for Efficient Fine-Tuning and Inference of Large Language Models](https://arxiv.org/abs/2306.02272) | AAAI | 
@@ -244,8 +244,14 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Support Infrastructure
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | Edge devices  | [When Large Language Model Agents Meet 6G Networks: Perception, Grounding, and Alignment](https://ieeexplore.ieee.org/abstract/document/10648594) | IEEE WC24 |
-| 2024 | Edge devices  | [On-Device Language Models: A Comprehensive Review](https://arxiv.org/abs/2409.00088) | Arxiv |
+| 2024 | Edge devices | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ICML |
+| 2024 | Edge devices | [EdgeShard: Efficient LLM Inference via Collaborative Edge Computing](https://arxiv.org/abs/2405.14371) | Arxiv |
+| 2024 | Edge devices | [Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs](https://www.arxiv.org/abs/2402.10517) | ICML |
+| 2024 | Edge devices | [The breakthrough memory solutions for improved performance on llm inference](https://ieeexplore.ieee.org/document/10477465) | IEEE Micro |
+| 2024 | Edge devices | [MELTing point: Mobile Evaluation of Language Transformers](https://arxiv.org/abs/2403.12844) | MobiCom |
+| 2024 | Edge devices | [LLM as a System Service on Mobile Devices](https://arxiv.org/abs/2403.11805) | Arxiv |
+| 2024 | Edge devices | [LocMoE: A Low-overhead MoE for Large Language Model Training](https://arxiv.org/html/2401.13920v1) | Arxiv |
+| 2024 | Edge devices | [Jetmoe: Reaching llama2 performance with 0.1 m dollars](https://arxiv.org/abs/2404.07413v1) | Arxiv | 
 | 2023 | Edge devices | [Training Large-Vocabulary Neural Language Models by Private Federated Learning for Resource-Constrained Devices](https://arxiv.org/abs/2207.08988) | ICASSP |
 | 2023 | Edge devices | [Federated Fine-Tuning of LLMs on the Very Edge: The Good, the Bad, the Ugly](https://arxiv.org/abs/2310.03150) | arXiv |
 | 2023 | Libraries | [Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training](https://arxiv.org/abs/2110.14883) | ICPP | 
