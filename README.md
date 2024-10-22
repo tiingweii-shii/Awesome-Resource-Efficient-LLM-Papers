@@ -193,8 +193,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Quantization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | Weight-Activation Co-Quantization #TODO | [Rotation and Permutation for Advanced Outlier Management and Efficient Quantization of LLMs](https://arxiv.org/html/2406.01721v1) | NeurIPS |
-| 2024 | Weight Quantization #TODO | [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](https://arxiv.org/abs/2308.13137) | ICLR |
+| 2024 | Weight-Activation Co-Quantization  | [Rotation and Permutation for Advanced Outlier Management and Efficient Quantization of LLMs](https://arxiv.org/html/2406.01721v1) | NeurIPS |
+| 2024 | Weight Quantization  | [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](https://arxiv.org/abs/2308.13137) | ICLR |
 | 2023 | Weight Quantization | [Flexround: Learnable rounding based on element-wise division for post-training quantization](https://arxiv.org/abs/2306.00317) | ICML | 
 | 2023 | Weight Quantization | [Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling](https://arxiv.org/abs/2304.09145) | EMNLP | 
 | 2023 | Weight Quantization | [OWQ: Outlier-Aware Weight Quantization for Efficient Fine-Tuning and Inference of Large Language Models](https://arxiv.org/abs/2306.02272) | AAAI | 
