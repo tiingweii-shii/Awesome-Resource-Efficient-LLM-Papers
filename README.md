@@ -53,6 +53,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Efficient Transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Approximate attention  | [Simple linear attention language models balance the recall-throughput tradeoff](https://arxiv.org/abs/2402.18668) | ArXiv |
+| 2024 | Hardware attention  | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ArXiv |
 | 2024 | Approximate attention  | [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486) | ArXiv |
 | 2024 | Approximate attention  | [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/pdf/2401.16421) | ICML |
 | 2024 | Hardware optimization | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) | ICLR |
