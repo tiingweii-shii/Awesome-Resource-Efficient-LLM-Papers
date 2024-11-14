@@ -149,8 +149,6 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Parameter-Efficient Fine-Tuning
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-
-| 2024 | LoRA-based fine-tuning  | [LoRA: Low-Rank Adaptation for Efficient Fine-tuning of Large Language Models](https://arxiv.org/abs/2402.16880) | Arxiv |
 | 2024 | LoRA-based fine-tuning  | [Dlora: Distributed parameter-efficient fine-tuning solution for large language model](https://arxiv.org/abs/2404.05182) | Arxiv |
 | 2024 | LoRA-based fine-tuning  | [SplitLoRA: A Split Parameter-Efficient Fine-Tuning Framework for Large Language Models](https://arxiv.org/abs/2407.00952) | Arxiv |
 | 2024 | LoRA-based fine-tuning  | [Data-efficient Fine-tuning for LLM-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3626772.3657807?casa_token=SPJzfyIxBI0AAAAA:dTVQKaLu0sxjsUsqPhPeNRseYC-o5Ucn5nngrchtLA4KA6FMjaZJ_q95K1b0NBTfMbO7o5CWxgjf) | SIGIR |
@@ -231,7 +229,6 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Input Pruning
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-
 | 2024 | Score-based Token Removal  | [Prompt-prompted Adaptive Structured Pruning for Efficient LLM Generation](https://openreview.net/pdf?id=4aqq9xTtih) | COLM |
 | 2024 | Score-based Token Removal  | [LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](https://arxiv.org/abs/2407.14057) | Arxiv |
 | 2024 | Learning-based Token Removal  | [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/abs/2403.12968) | ACL |
