@@ -92,6 +92,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Distributed Training
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Model Parallelism  | [ProTrain: Efficient LLM Training via Adaptive Memory Management](https://arxiv.org/abs/2406.08334) | Arxiv |
 | 2024 | Model Parallelism  | [MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs](https://arxiv.org/abs/2402.15627) | Arxiv |
 | 2023 | Data Parallelism | [Palm: Scaling language modeling with pathways](https://arxiv.org/abs/2204.02311) | Github | 
 | 2023 | Model Parallelism | [Bpipe: memory-balanced pipeline parallelism for training large language models](https://proceedings.mlr.press/v202/kim23l/kim23l.pdf) | JMLR |
@@ -148,6 +149,11 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Parameter-Efficient Fine-Tuning
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+
+| 2024 | LoRA-based fine-tuning  | [LoRA: Low-Rank Adaptation for Efficient Fine-tuning of Large Language Models](https://arxiv.org/abs/2402.16880) | Arxiv |
+| 2024 | LoRA-based fine-tuning  | [Dlora: Distributed parameter-efficient fine-tuning solution for large language model](https://arxiv.org/abs/2404.05182) | Arxiv |
+| 2024 | LoRA-based fine-tuning  | [SplitLoRA: A Split Parameter-Efficient Fine-Tuning Framework for Large Language Models](https://arxiv.org/abs/2407.00952) | Arxiv |
+| 2024 | LoRA-based fine-tuning  | [Data-efficient Fine-tuning for LLM-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3626772.3657807?casa_token=SPJzfyIxBI0AAAAA:dTVQKaLu0sxjsUsqPhPeNRseYC-o5Ucn5nngrchtLA4KA6FMjaZJ_q95K1b0NBTfMbO7o5CWxgjf) | SIGIR |
 | 2024 | LoRA-based fine-tuning  | [MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter](https://arxiv.org/html/2406.04984v1) | ACL |
 | 2023 | LoRA-based fine-tuning  | [DyLoRA: Parameter-Efficient Tuning of Pretrained Models using Dynamic Search-Free Low Rank Adaptation](https://aclanthology.org/2023.eacl-main.239/) | EACL |
 | 2022 | Masking-based fine-tuning | [Fine-Tuning Pre-Trained Language Models Effectively by Optimizing Subnetworks Adaptively](https://openreview.net/pdf?id=-r6-WNKfyhW) | NeurIPS |
@@ -159,6 +165,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Full-Parameter Fine-Tuning
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Full-parameter fine-tuning  | [Hift: A hierarchical full parameter fine-tuning strategy](https://arxiv.org/abs/2401.15207) | Arxiv |
 | 2024 | Study of full-parameter fine-tuning optimizations  | [A Study of Optimizations for Fine-tuning Large Language Models](https://arxiv.org/abs/2406.02290) | Arxiv | 
 | 2023 | Comparative study betweeen full-parameter and LoRA-base fine-tuning | [A Comparative Study between Full-Parameter and LoRA-based Fine-Tuning on Chinese Instruction Data for Instruction Following Large Language Model](https://arxiv.org/abs/2304.08109) | Arxiv | 
 | 2023 | Comparative study betweeen full-parameter and parameter-efficient fine-tuning | [Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification](https://arxiv.org/abs/2308.07282) | Arxiv |
@@ -196,6 +203,9 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Quantization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Weight Quantization  | [Evaluating Quantized Large Language Models](https://arxiv.org/abs/2402.18158) | Arxiv |
+| 2024 | Weight Quantization  | [I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models](https://arxiv.org/abs/2405.17849) | Arxiv |
+| 2024 | Weight Quantization  | [ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models](https://arxiv.org/abs/2408.08554) | Arxiv |
 | 2024 | Weight-Activation Co-Quantization  | [Rotation and Permutation for Advanced Outlier Management and Efficient Quantization of LLMs](https://arxiv.org/html/2406.01721v1) | NeurIPS |
 | 2024 | Weight Quantization  | [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](https://arxiv.org/abs/2308.13137) | ICLR |
 | 2023 | Weight Quantization | [Flexround: Learnable rounding based on element-wise division for post-training quantization](https://arxiv.org/abs/2306.00317) | ICML | 
@@ -221,6 +231,9 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Input Pruning
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+
+| 2024 | Score-based Token Removal  | [Prompt-prompted Adaptive Structured Pruning for Efficient LLM Generation](https://openreview.net/pdf?id=4aqq9xTtih) | COLM |
+| 2024 | Score-based Token Removal  | [LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](https://arxiv.org/abs/2407.14057) | Arxiv |
 | 2024 | Learning-based Token Removal  | [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/abs/2403.12968) | ACL |
 | 2024 | Learning-based Token Removal  | [Compressed Context Memory For Online Language Model Interaction](https://arxiv.org/abs/2312.03414) | ICLR |
 | 2023 | Score-based Token Removal | [Constraint-aware and Ranking-distilled Token Pruning for Efficient Transformer Inference](https://arxiv.org/abs/2306.14393) | KDD | 
