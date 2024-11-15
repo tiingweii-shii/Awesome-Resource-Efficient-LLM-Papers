@@ -53,9 +53,9 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Efficient Transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | Approximate attention  | [Cluster-wise Graph Transformer with Dual-granularity Kernelized Attention](https://arxiv.org/abs/2410.06746) | ArXiv |
+| 2024 | Approximate attention  | [Cluster-wise Graph Transformer with Dual-granularity Kernelized Attention](https://arxiv.org/abs/2410.06746) | NeurIPS |
 | 2024 | Approximate attention  | [Local Attention Mechanism: Boosting the Transformer Architecture for Long-Sequence Time Series Forecasting](https://arxiv.org/abs/2410.03805) | ArXiv |
-| 2024 | Approximate attention  | [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367) | ArXiv |
+| 2024 | Approximate attention  | [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367) | ICLR |
 | 2024 | Approximate attention  | [Simple linear attention language models balance the recall-throughput tradeoff](https://arxiv.org/abs/2402.18668) | ArXiv |
 | 2024 | Hardware attention  | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ArXiv |
 | 2024 | Approximate attention  | [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486) | ArXiv |
