@@ -251,6 +251,9 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Deployment optimization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Hardware Optimization  | [BrainTransformers: SNN-LLM](https://arxiv.org/abs/2410.14687) | Arxiv |
+| 2024 | Hardware Optimization  | [Ripple: Accelerating LLM Inference on Smartphones with Correlation-Aware Neuron Management](https://arxiv.org/abs/2410.19274) | Arxiv |
+| 2024 | Hardware Optimization  | [TorchTitan: One-stop PyTorch native solution for production ready LLM pre-training](https://arxiv.org/abs/2410.06511) | Arxiv |
 | 2024 | Hardware Optimization  | [LUT TENSOR CORE: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration](https://paperswithcode.com/paper/lut-tensor-core-lookup-table-enables) | Arxiv |
 | 2023 | Hardware offloading | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) | PMLR | 
 | 2023 | Hardware offloading | [Fast distributed inference serving for large language models](https://arxiv.org/abs/2305.05920) | arXiv | 
@@ -260,6 +263,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Support Infrastructure
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Edge devices | [FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression](https://arxiv.org/abs/2410.12707) | Arxiv |
 | 2024 | Edge devices | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ICML |
 | 2024 | Edge devices | [EdgeShard: Efficient LLM Inference via Collaborative Edge Computing](https://arxiv.org/abs/2405.14371) | Arxiv |
 | 2024 | Edge devices | [Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs](https://www.arxiv.org/abs/2402.10517) | ICML |
