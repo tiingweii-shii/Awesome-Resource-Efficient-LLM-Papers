@@ -53,6 +53,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Efficient Transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Approximate attention  | [Signformer is all you need: Towards Edge AI for Sign Language](https://arxiv.org/abs/2411.12901) | Arxiv |
+| 2024 | Approximate attention  | [Enhanced Computationally Efficient Long LoRA Inspired Perceiver Architectures for Auto-Regressive Language Modeling](https://arxiv.org/abs/2412.06106) | Arxiv |
 | 2024 | Approximate attention  | [Cluster-wise Graph Transformer with Dual-granularity Kernelized Attention](https://arxiv.org/abs/2410.06746) | NeurIPS |
 | 2024 | Approximate attention  | [Local Attention Mechanism: Boosting the Transformer Architecture for Long-Sequence Time Series Forecasting](https://arxiv.org/abs/2410.03805) | ArXiv |
 | 2024 | Approximate attention  | [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367) | ICLR |
@@ -76,6 +78,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Non-transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | RWKV-edge  | [RWKV-edge: Deeply Compressed RWKV for Resource-Constrained Devices](https://arxiv.org/abs/2412.10856)| ArXiv |
 | 2024 | Decoder  | [You Only Cache Once: Decoder-Decoder Architectures for Language Models](https://arxiv.org/abs/2405.05254)| ArXiv |
 | 2024 | BitLinear layer  | [Scalable MatMul-free Language Modeling](https://arxiv.org/abs/2406.02528) | ArXiv |
 | 2023 | RNN LM | [RWKV: Reinventing RNNs for the Transformer Era](https://aclanthology.org/2023.findings-emnlp.936/) | EMNLP-Findings|
@@ -263,6 +266,9 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Support Infrastructure
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Libraries | [Chat AI: A Seamless Slurm-Native Solution for HPC-Based Services](https://arxiv.org/abs/2407.00110) | IISWC |
+| 2024 | Support Infrastructure  | [LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale](https://arxiv.org/abs/2408.05499) | IISWC |
+| 2024 | Edge-cloud | [Transforming the Hybrid Cloud for Emerging AI Workloads](https://arxiv.org/abs/2411.13239) | Arxiv |
 | 2024 | Edge devices | [FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression](https://arxiv.org/abs/2410.12707) | Arxiv |
 | 2024 | Edge devices | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ICML |
 | 2024 | Edge devices | [EdgeShard: Efficient LLM Inference via Collaborative Edge Computing](https://arxiv.org/abs/2405.14371) | Arxiv |
