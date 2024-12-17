@@ -266,7 +266,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Support Infrastructure
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | Libraries | [Chat AI: A Seamless Slurm-Native Solution for HPC-Based Services](https://arxiv.org/abs/2407.00110) | IISWC |
+| 2024 | Libraries | [Chat AI: A Seamless Slurm-Native Solution for HPC-Based Services](https://arxiv.org/abs/2407.00110) | Arxiv |
 | 2024 | Support Infrastructure  | [LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale](https://arxiv.org/abs/2408.05499) | IISWC |
 | 2024 | Edge-cloud | [Transforming the Hybrid Cloud for Emerging AI Workloads](https://arxiv.org/abs/2411.13239) | Arxiv |
 | 2024 | Edge devices | [FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression](https://arxiv.org/abs/2410.12707) | Arxiv |
