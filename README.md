@@ -53,11 +53,6 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Efficient Transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | Approximate attention  | [Signformer is all you need: Towards Edge AI for Sign Language](https://arxiv.org/abs/2411.12901) | Arxiv |
-| 2024 | Approximate attention  | [Enhanced Computationally Efficient Long LoRA Inspired Perceiver Architectures for Auto-Regressive Language Modeling](https://arxiv.org/abs/2412.06106) | Arxiv |
-| 2024 | Approximate attention  | [Cluster-wise Graph Transformer with Dual-granularity Kernelized Attention](https://arxiv.org/abs/2410.06746) | NeurIPS |
-| 2024 | Approximate attention  | [Local Attention Mechanism: Boosting the Transformer Architecture for Long-Sequence Time Series Forecasting](https://arxiv.org/abs/2410.03805) | ArXiv |
-| 2024 | Approximate attention  | [SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367) | ICLR |
 | 2024 | Approximate attention  | [Simple linear attention language models balance the recall-throughput tradeoff](https://arxiv.org/abs/2402.18668) | ArXiv |
 | 2024 | Hardware attention  | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ArXiv |
 | 2024 | Approximate attention  | [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486) | ArXiv |
@@ -78,7 +73,6 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Non-transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | RWKV-edge  | [RWKV-edge: Deeply Compressed RWKV for Resource-Constrained Devices](https://arxiv.org/abs/2412.10856)| ArXiv |
 | 2024 | Decoder  | [You Only Cache Once: Decoder-Decoder Architectures for Language Models](https://arxiv.org/abs/2405.05254)| ArXiv |
 | 2024 | BitLinear layer  | [Scalable MatMul-free Language Modeling](https://arxiv.org/abs/2406.02528) | ArXiv |
 | 2023 | RNN LM | [RWKV: Reinventing RNNs for the Transformer Era](https://aclanthology.org/2023.findings-emnlp.936/) | EMNLP-Findings|
@@ -113,6 +107,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Mixed precision training
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Mixed Precision Training  | [FP8-LM: Training FP8 Large Language Models](https://arxiv.org/abs/2310.18313) | Arxiv |
 | 2022 | Mixed Precision Training| [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) | Arxiv |
 | 2018 | Mixed Precision Training| [Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805) | ACL | 
 | 2017 | Mixed Precision Training| [Mixed Precision Training](https://arxiv.org/abs/1710.03740) | ICLR | 
@@ -121,6 +116,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Importance Sampling
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Importance sampling  | [How to Train Data-Efficient LLMs](https://arxiv.org/abs/2402.09668) | Arxiv |
 | 2024 | Importance sampling  | [LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning](https://arxiv.org/abs/2403.17919) | Arxiv |
 | 2023 | Survey on importance sampling | [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107) | IJCAI | 
 | 2023 | Importance sampling | [Data-Juicer: A One-Stop Data Processing System for Large Language Models](https://arxiv.org/abs/2309.02033) | Arxiv | 
@@ -254,9 +250,6 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Deployment optimization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | Hardware Optimization  | [BrainTransformers: SNN-LLM](https://arxiv.org/abs/2410.14687) | Arxiv |
-| 2024 | Hardware Optimization  | [Ripple: Accelerating LLM Inference on Smartphones with Correlation-Aware Neuron Management](https://arxiv.org/abs/2410.19274) | Arxiv |
-| 2024 | Hardware Optimization  | [TorchTitan: One-stop PyTorch native solution for production ready LLM pre-training](https://arxiv.org/abs/2410.06511) | Arxiv |
 | 2024 | Hardware Optimization  | [LUT TENSOR CORE: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration](https://paperswithcode.com/paper/lut-tensor-core-lookup-table-enables) | Arxiv |
 | 2023 | Hardware offloading | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) | PMLR | 
 | 2023 | Hardware offloading | [Fast distributed inference serving for large language models](https://arxiv.org/abs/2305.05920) | arXiv | 
@@ -266,10 +259,6 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Support Infrastructure
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
-| 2024 | Libraries | [Chat AI: A Seamless Slurm-Native Solution for HPC-Based Services](https://arxiv.org/abs/2407.00110) | Arxiv |
-| 2024 | Support Infrastructure  | [LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale](https://arxiv.org/abs/2408.05499) | IISWC |
-| 2024 | Edge-cloud | [Transforming the Hybrid Cloud for Emerging AI Workloads](https://arxiv.org/abs/2411.13239) | Arxiv |
-| 2024 | Edge devices | [FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression](https://arxiv.org/abs/2410.12707) | Arxiv |
 | 2024 | Edge devices | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ICML |
 | 2024 | Edge devices | [EdgeShard: Efficient LLM Inference via Collaborative Edge Computing](https://arxiv.org/abs/2405.14371) | Arxiv |
 | 2024 | Edge devices | [Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs](https://www.arxiv.org/abs/2402.10517) | ICML |
