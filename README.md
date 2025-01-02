@@ -250,6 +250,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Deployment optimization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2024 | Hardware optimization  | [LoL-PIM: Long-Context LLM Decoding with Scalable DRAM-PIM System](https://arxiv.org/abs/2412.20166) | ArXiv |
 | 2024 | Hardware Optimization  | [LUT TENSOR CORE: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration](https://paperswithcode.com/paper/lut-tensor-core-lookup-table-enables) | Arxiv |
 | 2023 | Hardware offloading | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) | PMLR | 
 | 2023 | Hardware offloading | [Fast distributed inference serving for large language models](https://arxiv.org/abs/2305.05920) | arXiv | 
