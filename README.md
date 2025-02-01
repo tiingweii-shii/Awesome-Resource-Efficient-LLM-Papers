@@ -298,7 +298,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 | :-------------------------------: | :--------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
 | FLOPs (Floating-point operations) | the number of arithmetic operations on floating-point numbers    | [\[FLOPs\]](https://arxiv.org/pdf/2309.13192.pdf) |
 | Training Time                     | the total duration required for training, typically measured in wall-clock minutes, hours, or days  |[\[minutes, days\]](https://arxiv.org/pdf/2309.13192.pdf)<br>[\[hours\]](https://www.jmlr.org/papers/volume24/23-0069/23-0069.pdf)|
-| Inference Time/Latency            | the average time required generate an output after receiving an input, typically measured in wall-clock time or CPU/GPU/TPU clock time in milliseconds or seconds  |[\[end-to-end latency in seconds\]](https://arxiv.org/pdf/2309.06180.pdf)<br>[\[next token generation latency in milliseconds\]](https://arxiv.org/pdf/2311.00502.pdf)|
+| Inference Time/Latency            | the average time required to generate an output after receiving an input, typically measured in wall-clock time or CPU/GPU/TPU clock time in milliseconds or seconds  |[\[end-to-end latency in seconds\]](https://arxiv.org/pdf/2309.06180.pdf)<br>[\[next token generation latency in milliseconds\]](https://arxiv.org/pdf/2311.00502.pdf)|
 | Throughput                        | the rate of output tokens generation or tasks completion, typically measured in tokens per second (TPS) or queries per second (QPS) |[\[tokens/s\]](https://arxiv.org/pdf/2209.01188.pdf)<br>[\[queries/s\]](https://arxiv.org/pdf/2210.16773.pdf)|
 | Speed-Up Ratio                    | the improvement in inference speed compared to a baseline model |[\[inference time speed-up\]](https://aclanthology.org/2021.naacl-industry.15.pdf)<br>[\[throughput speed-up\]](https://github.com/NVIDIA/FasterTransformer)|
 
@@ -317,7 +317,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 | Carbon Emission      | the greenhouse gas emissions associated with the model’s energy usage |[\[kgCO2eq\]](https://jmlr.org/papers/volume21/20-312/20-312.pdf)|
 
 <!-- software packages designed for real-time tracking of energy consumption and carbon emissions**. -->
-  > The following are available software packages designed for real-time tracking of energy consumption and carbon emission.
+  > The following are available software packages designed for real-time tracking of energy consumption and carbon emissions.
   > - [CodeCarbon](https://codecarbon.io/)
   > - [Carbontracker](https://github.com/lfwa/carbontracker)
   > - [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker)
@@ -340,8 +340,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 ### 💡 Other Metrics
 |  Metric               |       Description                                              |    Example Usage                                                                                | 
 | :------------------:  | :---------------------------------------------------------:    | :---------------------------------------------------------------------------------------------: |
-| Compression Ratio     |  the reduction in size of the compressed model compared to the original model | [\[compress rate\]](https://arxiv.org/pdf/1510.00149.pdf)<br>[\[percentage of weights remaining\]](https://arxiv.org/pdf/2306.11222.pdf)|
-| Loyalty/Fidelity      |  the resemblance between the teacher and student models in terms of both predictions consistency and predicted probability distributions alignment | [\[loyalty\]](https://arxiv.org/pdf/2109.03228.pdf)<br>[\[fidelity\]](https://arxiv.org/pdf/2106.05945.pdf)|
+| Compression Ratio     |  the reduction in the size of the compressed model compared to the original model | [\[compress rate\]](https://arxiv.org/pdf/1510.00149.pdf)<br>[\[percentage of weights remaining\]](https://arxiv.org/pdf/2306.11222.pdf)|
+| Loyalty/Fidelity      |  the resemblance between the teacher and student models in terms of both prediction consistency and predicted probability distributions alignment | [\[loyalty\]](https://arxiv.org/pdf/2109.03228.pdf)<br>[\[fidelity\]](https://arxiv.org/pdf/2106.05945.pdf)|
 | Robustness            |  the resistance to adversarial attacks, where slight input modifications can potentially manipulate the model's output | [\[after-attack accuracy, query number\]](https://arxiv.org/pdf/2109.03228.pdf)|
 | Pareto Optimality     |  the optimal trade-offs between various competing factors | [\[Pareto frontier (cost and accuracy)\]](https://arxiv.org/pdf/2212.01340.pdf)<br>[\[Pareto frontier (performance and FLOPs)\]](https://arxiv.org/pdf/2110.07038.pdf)|
 ### Benchmarks
