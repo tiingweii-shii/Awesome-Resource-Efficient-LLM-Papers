@@ -253,7 +253,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
 | 2025 | Collaborative inference  | [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/abs/2502.04180) | ArXiv |
-| 2025 | Collaborative inference  | [MoE^2: Optimizing Collaborative Inference for Edge Large Language Models](https://arxiv.org/abs/2501.09410) | ACM Transactions on Networking |
+| 2025 | Collaborative inference  | [MoE²: Optimizing Collaborative Inference for Edge Large Language Models](https://arxiv.org/abs/2501.09410) | ACM Transactions on Networking |
 | 2025 | Collaborative inference  | [LUK: Empowering Log Understanding with Expert Knowledge from Large Language Models](hhttps://arxiv.org/abs/2409.01909) | ArXiv |
 | 2025 | Hardware optimization  | [Pushing the Limits of BFP on Narrow Precision LLM Inference](https://arxiv.org/abs/2502.00026) | ArXiv |
 | 2024 | Hardware optimization  | [LoL-PIM: Long-Context LLM Decoding with Scalable DRAM-PIM System](https://arxiv.org/abs/2412.20166) | ArXiv |
