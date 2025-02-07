@@ -53,8 +53,10 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Efficient Transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2025 | Approximate attention  | [S2-Attention: Hardware-Aware Context Sharding Among Attention Heads](https://arxiv.org/abs/2407.17678) | ArXiv |
+| 2025 | Hardware optimization  | [Explore Activation Sparsity in Recurrent LLMs for Energy-Efficient Neuromorphic Computing](https://arxiv.org/abs/2501.16337) | AICAS |
 | 2024 | Approximate attention  | [Simple linear attention language models balance the recall-throughput tradeoff](https://arxiv.org/abs/2402.18668) | ArXiv |
-| 2024 | Hardware attention  | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ArXiv |
+| 2024 | Hardware optimization  | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ArXiv |
 | 2024 | Approximate attention  | [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486) | ArXiv |
 | 2024 | Approximate attention  | [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/pdf/2401.16421) | ICML |
 | 2024 | Hardware optimization | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) | ICLR |
@@ -250,6 +252,10 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Deployment optimization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2025 | Collaborative inference  | [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/abs/2502.04180) | ArXiv |
+| 2025 | Collaborative inference  | [MoE^2: Optimizing Collaborative Inference for Edge Large Language Models](https://arxiv.org/abs/2501.09410) | ACM Transactions on Networking |
+| 2025 | Collaborative inference  | [LUK: Empowering Log Understanding with Expert Knowledge from Large Language Models](hhttps://arxiv.org/abs/2409.01909) | ArXiv |
+| 2025 | Hardware optimization  | [Pushing the Limits of BFP on Narrow Precision LLM Inference](https://arxiv.org/abs/2502.00026) | ArXiv |
 | 2024 | Hardware optimization  | [LoL-PIM: Long-Context LLM Decoding with Scalable DRAM-PIM System](https://arxiv.org/abs/2412.20166) | ArXiv |
 | 2024 | Hardware Optimization  | [LUT TENSOR CORE: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration](https://paperswithcode.com/paper/lut-tensor-core-lookup-table-enables) | Arxiv |
 | 2023 | Hardware offloading | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) | PMLR | 
@@ -260,6 +266,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Support Infrastructure
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2025 | Libraries | [LLM Assisted Anomaly Detection Service for Site Reliability Engineers: Enhancing Cloud Infrastructure Resilience](https://arxiv.org/abs/2501.16744) | AAAI |
 | 2024 | Edge devices | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ICML |
 | 2024 | Edge devices | [EdgeShard: Efficient LLM Inference via Collaborative Edge Computing](https://arxiv.org/abs/2405.14371) | Arxiv |
 | 2024 | Edge devices | [Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs](https://www.arxiv.org/abs/2402.10517) | ICML |
