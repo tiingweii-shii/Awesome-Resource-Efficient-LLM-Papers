@@ -1,7 +1,7 @@
 # Awesome Resource-Efficient LLM Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    A curated list of high-quality papers on resource-efficient LLMs. 
+    A curated list of high-quality papers on resource-efficient LLMs. (constantly updated)
   </div>
   <div>
     <img src="media/clean_energy.gif" alt="Clean Energy GIF" width="80" />
