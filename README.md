@@ -8,7 +8,9 @@
   </div>
 </div>
 
-This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/pdf/2401.00625). If you find our repo helpful, please consider starring ⭐ it—we’d really appreciate your support!
+This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/pdf/2401.00625). 
+
+⭐ **If you find our repo helpful, please consider starring ⭐ it—we’d really appreciate your support!** ⭐
 
  ## Table of Contents
 - [Awesome Resource-Efficient LLM Papers ](#awesome-resource-efficient-llm-papers-)
