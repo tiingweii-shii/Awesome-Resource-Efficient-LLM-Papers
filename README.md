@@ -53,8 +53,10 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Efficient Transformer Architecture
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2025 | Approximate attention  | [S2-Attention: Hardware-Aware Context Sharding Among Attention Heads](https://arxiv.org/abs/2407.17678) | ArXiv |
+| 2025 | Hardware optimization  | [Explore Activation Sparsity in Recurrent LLMs for Energy-Efficient Neuromorphic Computing](https://arxiv.org/abs/2501.16337) | AICAS |
 | 2024 | Approximate attention  | [Simple linear attention language models balance the recall-throughput tradeoff](https://arxiv.org/abs/2402.18668) | ArXiv |
-| 2024 | Hardware attention  | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ArXiv |
+| 2024 | Hardware optimization  | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ArXiv |
 | 2024 | Approximate attention  | [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486) | ArXiv |
 | 2024 | Approximate attention  | [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/pdf/2401.16421) | ICML |
 | 2024 | Hardware optimization | [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2307.08691) | ICLR |
@@ -92,6 +94,9 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Distributed Training
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2025 | Data Parallelism  | [DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization](https://arxiv.org/pdf/2502.11058) | Arxiv |
+| 2024 | Model Parallelism  | [Ladder-Residual: Parallelism-Aware Architecture for Accelerating Large Model Inference with Communication Overlapping](https://arxiv.org/pdf/2501.06589) | Arxiv |
+| 2024 | Model Efficiency  | [Optimizing Distributed Training on Frontier for Large Language Models](https://ieeexplore.ieee.org/document/10528939) | ISC |
 | 2024 | Model Parallelism  | [ProTrain: Efficient LLM Training via Adaptive Memory Management](https://arxiv.org/abs/2406.08334) | Arxiv |
 | 2024 | Model Parallelism  | [MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs](https://arxiv.org/abs/2402.15627) | Arxiv |
 | 2023 | Data Parallelism | [Palm: Scaling language modeling with pathways](https://arxiv.org/abs/2204.02311) | Github | 
@@ -107,6 +112,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Mixed precision training
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2025 | Mixed Precision Training  | [Towards Efficient Pre-training: Exploring FP4 Precision in Large Language Models](https://arxiv.org/abs/2502.11458) | Arxiv |
 | 2024 | Mixed Precision Training  | [FP8-LM: Training FP8 Large Language Models](https://arxiv.org/abs/2310.18313) | Arxiv |
 | 2022 | Mixed Precision Training| [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) | Arxiv |
 | 2018 | Mixed Precision Training| [Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/abs/1810.04805) | ACL | 
@@ -165,6 +171,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Full-Parameter Fine-Tuning
  |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2025 | Full-parameter fine-tuning  | [BAdam: A Memory Efficient Full Parameter Optimization Method for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/2c570b0f9938c7a58a612e5b00af9cc0-Paper-Conference.pdf) | NeurIPS |
 | 2024 | Full-parameter fine-tuning  | [Hift: A hierarchical full parameter fine-tuning strategy](https://arxiv.org/abs/2401.15207) | Arxiv |
 | 2024 | Study of full-parameter fine-tuning optimizations  | [A Study of Optimizations for Fine-tuning Large Language Models](https://arxiv.org/abs/2406.02290) | Arxiv | 
 | 2023 | Comparative study betweeen full-parameter and LoRA-base fine-tuning | [A Comparative Study between Full-Parameter and LoRA-based Fine-Tuning on Chinese Instruction Data for Instruction Following Large Language Model](https://arxiv.org/abs/2304.08109) | Arxiv | 
@@ -182,6 +189,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Pruning
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2025 | Structured Pruning | [SlimGPT: Layer-wise Structured Pruning for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c1c44e46358e0fb94dc94ec495a7fb1a-Abstract-Conference.html) | NeurIPS |
 | 2024 | Unstructured Pruning | [SparseLLM: Towards Global Pruning for Pre-trained Language Models](https://arxiv.org/abs/2402.17946) | NeurIPS |
 | 2024 | Structured Pruning | [Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models](https://arxiv.org/pdf/2405.20541) | Arxiv |
 | 2024 | Structured Pruning | [BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation](https://arxiv.org/pdf/2402.16880) | Arxiv |
@@ -203,6 +211,9 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Quantization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2025 | Weight Quantization  | [HWPQ: Hessian-free Weight Pruning-Quantization For LLM Compression And Acceleration](https://arxiv.org/abs/2501.16376) | Arxiv |
+| 2025 | Weight Quantization  | [Huff-LLM: End-to-End Lossless Compression for Efficient LLM Inference](https://arxiv.org/pdf/2502.00922) | Arxiv |
+| 2025 | Weight Quantization  | [AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration](https://dl.acm.org/doi/pdf/10.1145/3714983.3714987) | SIGMOBILE |
 | 2024 | Weight Quantization  | [Evaluating Quantized Large Language Models](https://arxiv.org/abs/2402.18158) | Arxiv |
 | 2024 | Weight Quantization  | [I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models](https://arxiv.org/abs/2405.17849) | Arxiv |
 | 2024 | Weight Quantization  | [ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models](https://arxiv.org/abs/2408.08554) | Arxiv |
@@ -250,6 +261,10 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Deployment optimization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2025 | Collaborative inference  | [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/abs/2502.04180) | ArXiv |
+| 2025 | Collaborative inference  | [MoE²: Optimizing Collaborative Inference for Edge Large Language Models](https://arxiv.org/abs/2501.09410) | ACM Transactions on Networking |
+| 2025 | Collaborative inference  | [LUK: Empowering Log Understanding with Expert Knowledge from Large Language Models](https://arxiv.org/abs/2409.01909) | ArXiv |
+| 2025 | Hardware optimization  | [Pushing the Limits of BFP on Narrow Precision LLM Inference](https://arxiv.org/abs/2502.00026) | ArXiv |
 | 2024 | Hardware optimization  | [LoL-PIM: Long-Context LLM Decoding with Scalable DRAM-PIM System](https://arxiv.org/abs/2412.20166) | ArXiv |
 | 2024 | Hardware Optimization  | [LUT TENSOR CORE: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration](https://paperswithcode.com/paper/lut-tensor-core-lookup-table-enables) | Arxiv |
 | 2023 | Hardware offloading | [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/abs/2303.06865) | PMLR | 
@@ -260,6 +275,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Support Infrastructure
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2025 | Libraries | [LLM Assisted Anomaly Detection Service for Site Reliability Engineers: Enhancing Cloud Infrastructure Resilience](https://arxiv.org/abs/2501.16744) | AAAI |
 | 2024 | Edge devices | [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905) | ICML |
 | 2024 | Edge devices | [EdgeShard: Efficient LLM Inference via Collaborative Edge Computing](https://arxiv.org/abs/2405.14371) | Arxiv |
 | 2024 | Edge devices | [Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs](https://www.arxiv.org/abs/2402.10517) | ICML |
