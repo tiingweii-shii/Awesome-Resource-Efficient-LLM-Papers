@@ -211,6 +211,9 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 | 2023 | Contextual Pruning | [Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time](https://proceedings.mlr.press/v202/liu23am.html) | ICML | 
 
  #### Quantization
+
+- [OneComp: One-Line Revolution for Generative AI Model Compression](https://arxiv.org/abs/2603.28845), Ichikawa et al., arXiv 2026. [Code](https://github.com/FujitsuResearch/OneCompression).
+- [Quantization Error Propagation](https://openreview.net/forum?id=a3l3K9khbL), Arai & Ichikawa, NeurIPS 2025.
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
 | 2025 | Weight Quantization  | [HWPQ: Hessian-free Weight Pruning-Quantization For LLM Compression And Acceleration](https://arxiv.org/abs/2501.16376) | Arxiv |
