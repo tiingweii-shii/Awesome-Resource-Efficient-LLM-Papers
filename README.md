@@ -248,6 +248,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Input Pruning
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2026 | Learning-based Token Removal | [Semantic-Guided Slow-Fast Pruning of Visual Tokens for Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/11460400) | ICASSP |
 | 2024 | Score-based Token Removal  | [Prompt-prompted Adaptive Structured Pruning for Efficient LLM Generation](https://openreview.net/pdf?id=4aqq9xTtih) | COLM |
 | 2024 | Score-based Token Removal  | [LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](https://arxiv.org/abs/2407.14057) | Arxiv |
 | 2024 | Learning-based Token Removal  | [LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression](https://arxiv.org/abs/2403.12968) | ACL |
