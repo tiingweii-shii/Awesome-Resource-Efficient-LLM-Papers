@@ -217,6 +217,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
   
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2026 | Per-layer embedding vector quantization | [Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization](https://arxiv.org/abs/2610.31309) | arXiv |
 | 2025 | Weight Quantization  | [HWPQ: Hessian-free Weight Pruning-Quantization For LLM Compression And Acceleration](https://arxiv.org/abs/2501.16376) | Arxiv |
 | 2025 | Weight Quantization  | [Huff-LLM: End-to-End Lossless Compression for Efficient LLM Inference](https://arxiv.org/pdf/2502.00922) | Arxiv |
 | 2025 | Weight Quantization  | [AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration](https://dl.acm.org/doi/pdf/10.1145/3714983.3714987) | SIGMOBILE |
