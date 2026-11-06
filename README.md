@@ -267,6 +267,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Deployment optimization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2026 | Collaborative inference  | [EC²-Bench (EC2-Bench): Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/abs/2610.17816) | ArXiv |
 | 2025 | Collaborative inference  | [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/abs/2502.04180) | ArXiv |
 | 2025 | Collaborative inference  | [MoE²: Optimizing Collaborative Inference for Edge Large Language Models](https://arxiv.org/abs/2501.09410) | ACM Transactions on Networking |
 | 2025 | Collaborative inference  | [LUK: Empowering Log Understanding with Expert Knowledge from Large Language Models](https://arxiv.org/abs/2409.01909) | ArXiv |
