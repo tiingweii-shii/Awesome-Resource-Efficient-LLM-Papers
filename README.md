@@ -191,6 +191,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Pruning
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2026 | Structured Pruning | [TELL-TALE: Task Efficient LLMs with Task Aware Layer Elimination](https://aclanthology.org/2026.findings-acl.1136/) | ACL Findings |
 | 2025 | Structured Pruning | [SlimGPT: Layer-wise Structured Pruning for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c1c44e46358e0fb94dc94ec495a7fb1a-Abstract-Conference.html) | NeurIPS |
 | 2024 | Unstructured Pruning | [SparseLLM: Towards Global Pruning for Pre-trained Language Models](https://arxiv.org/abs/2402.17946) | NeurIPS |
 | 2024 | Structured Pruning | [Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models](https://arxiv.org/pdf/2405.20541) | Arxiv |
