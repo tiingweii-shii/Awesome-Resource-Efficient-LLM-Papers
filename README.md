@@ -191,6 +191,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  #### Pruning
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2026 | Structured Pruning | [DarwinLM: Evolutionary Structured Pruning of Large Language Models](https://openreview.net/forum?id=LhsPiQYoe2) | COLM |
 | 2026 | Structured Pruning | [TELL-TALE: Task Efficient LLMs with Task Aware Layer Elimination](https://aclanthology.org/2026.findings-acl.1136/) | ACL Findings |
 | 2025 | Structured Pruning | [SlimGPT: Layer-wise Structured Pruning for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c1c44e46358e0fb94dc94ec495a7fb1a-Abstract-Conference.html) | NeurIPS |
 | 2024 | Unstructured Pruning | [SparseLLM: Towards Global Pruning for Pre-trained Language Models](https://arxiv.org/abs/2402.17946) | NeurIPS |
@@ -215,6 +216,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2026 | Post-training Quantization | [ADMM-Q: An Improved Hessian-based Weight Quantizer for Post-Training Quantization of Large Language Models](https://openreview.net/forum?id=pXd1ueLloD) | COLM |
 | 2026 | Per-layer embedding vector quantization | [Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization](https://arxiv.org/abs/2610.31309) | arXiv |
 | 2026 | Post-training Quantization | [OneComp: One-Line Revolution for Generative AI Model Compression](https://arxiv.org/abs/2603.28845) ([Code](https://github.com/FujitsuResearch/OneCompression)) | arXiv |
 | 2025 | Weight Quantization | [Quantization Error Propagation](https://openreview.net/forum?id=a3l3K9khbL) | NeurIPS |
@@ -269,6 +271,8 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
  ### Deployment optimization
 |  Date  |       Keywords     | Paper    | Venue |
 | :---------: | :------------: | :-----------------------------------------:| :---------: |
+| 2026 | Collaborative inference | [Tandem: Riding Together with Large and Small Language Models for Efficient Reasoning](https://aclanthology.org/2026.findings-acl.2098/) | ACL Findings |
+| 2026 | Adapter serving | [ExpertWeave: Efficiently Serving Expert-Specialized Fine-Tuned Adapters at Scale](https://openreview.net/forum?id=2S5aOnd10q) | COLM |
 | 2026 | Collaborative inference  | [EC²-Bench (EC2-Bench): Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/abs/2610.17816) | ArXiv |
 | 2025 | Collaborative inference  | [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/abs/2502.04180) | ArXiv |
 | 2025 | Collaborative inference  | [MoE²: Optimizing Collaborative Inference for Edge Large Language Models](https://arxiv.org/abs/2501.09410) | ACM Transactions on Networking |
