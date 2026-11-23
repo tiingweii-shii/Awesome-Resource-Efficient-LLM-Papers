@@ -8,7 +8,7 @@
   </div>
 </div>
 
-This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/pdf/2401.00625). 
+This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models](https://arxiv.org/pdf/2401.00625). The paper has been published at [ACM Computing Survey (CSUR)](https://dl.acm.org/doi/full/10.1145/3845797)
 
 ⭐ **If you find our repo helpful, please consider starring ⭐ it—we’d really appreciate your support!** ⭐
 
