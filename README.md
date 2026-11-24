@@ -274,6 +274,7 @@ This is the GitHub repo for our survey paper [Beyond Efficiency: A Systematic Su
 | 2026 | Collaborative inference | [Tandem: Riding Together with Large and Small Language Models for Efficient Reasoning](https://aclanthology.org/2026.findings-acl.2098/) | ACL Findings |
 | 2026 | Adapter serving | [ExpertWeave: Efficiently Serving Expert-Specialized Fine-Tuned Adapters at Scale](https://openreview.net/forum?id=2S5aOnd10q) | COLM |
 | 2026 | Collaborative inference  | [EC²-Bench (EC2-Bench): Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/abs/2610.17816) | ArXiv |
+| 2026 | Hierarchical KV cache | [The FastPath Agentic Recipe: 50% More Agents and 60% More Throughput at Equal P90 Interactivity on Stock SGLang](https://doi.org/10.5281/zenodo.24457433) | Zenodo |
 | 2025 | Collaborative inference  | [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/abs/2502.04180) | ArXiv |
 | 2025 | Collaborative inference  | [MoE²: Optimizing Collaborative Inference for Edge Large Language Models](https://arxiv.org/abs/2501.09410) | ACM Transactions on Networking |
 | 2025 | Collaborative inference  | [LUK: Empowering Log Understanding with Expert Knowledge from Large Language Models](https://arxiv.org/abs/2409.01909) | ArXiv |
